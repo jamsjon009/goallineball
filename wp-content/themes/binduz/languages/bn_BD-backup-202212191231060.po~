@@ -1,0 +1,2400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: binduz\n"
+"POT-Creation-Date: 2022-11-24 16:56+0600\n"
+"PO-Revision-Date: 2022-12-19 12:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html__e;esc_attr__;esc_attr__e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr "পৃষ্ঠা খুঁজে পাওয়া যায়নি"
+
+#: 404.php:22
+msgid "Go Back Home"
+msgstr "বাড়িতে ফিরে যান"
+
+#: app/Core/Binduz_Walker_Comment.php:54
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: app/Core/Binduz_Walker_Comment.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "আপনার মতামত বিবেচনাধীন।"
+
+#: app/Core/Binduz_Walker_Comment.php:92
+#: framework-customizations/theme/options/customizer/options-blog.php:314
+msgid "Edit"
+msgstr "সম্পাদনা"
+
+#: app/Core/Footer.php:27
+msgid "Footer One"
+msgstr "পাদচরণ এক"
+
+#: app/Core/Footer.php:29
+msgid "Footer one Widget."
+msgstr "পাদলেখ একটি উইজেট."
+
+#: app/Core/Footer.php:41
+msgid "Footer Two"
+msgstr "পাদচরণ দুই"
+
+#: app/Core/Footer.php:43
+msgid "Footer  widget."
+msgstr "পাদলেখ উইজেট."
+
+#: app/Core/Footer.php:55
+msgid "Footer Three"
+msgstr "ফুটার তিন"
+
+#: app/Core/Footer.php:57 app/Core/Footer.php:71
+msgid "Footer widget."
+msgstr "পাদলেখ উইজেট."
+
+#: app/Core/Footer.php:69
+msgid "Footer Four"
+msgstr "চার পাদচরণ"
+
+#: app/Core/Hook/Blog.php:120
+msgid "Search here"
+msgstr "এখানে অনুসন্ধান"
+
+#: app/Core/Hook/Demo.php:26
+msgid "Home V1"
+msgstr "বাড়ি V1"
+
+#: app/Core/Hook/Demo.php:31
+msgid "Home v2"
+msgstr "বাড়ি v2"
+
+#: app/Core/Hook/Demo.php:36
+msgid "Home v3"
+msgstr "হোম v3"
+
+#: app/Core/Hook/Demo.php:41
+msgid "Home v4"
+msgstr "বাড়ি v4"
+
+#: app/Core/Hook/Demo.php:46
+msgid "Home v5"
+msgstr "বাড়ি v5"
+
+#: app/Core/Hook/Demo.php:51
+msgid "Home v6"
+msgstr "বাড়ি v6"
+
+#: app/Core/Hook/Demo.php:57
+msgid "Home v7"
+msgstr "বাড়ি v7"
+
+#: app/Core/Hook/Demo.php:62
+msgid "Home v8"
+msgstr "বাড়ি v8"
+
+#: app/Core/Hook/Demo.php:67
+msgid "Home v9"
+msgstr "বাড়ি v9"
+
+#: app/Core/Hook/RequiredPlugins.php:29
+msgid "Elementor"
+msgstr "এলিমেন্টর"
+
+#: app/Core/Hook/RequiredPlugins.php:34
+msgid "Contact form 7"
+msgstr "ফরম যোগাযোগ করুন 7"
+
+#: app/Core/Hook/RequiredPlugins.php:39
+msgid "Mailchimp"
+msgstr "মেইলচিম্প"
+
+#: app/Core/Hook/RequiredPlugins.php:44
+msgid "Unyson"
+msgstr "Unyson"
+
+#: app/Core/Hook/RequiredPlugins.php:49
+msgid "Classic editor"
+msgstr "ক্লাসিক এডিটর"
+
+#: app/Core/Hook/RequiredPlugins.php:56
+msgid "Classic Widgets Area"
+msgstr "ক্লাসিক উইজেট এলাকায়"
+
+#: app/Core/Hook/RequiredPlugins.php:62
+msgid "Element Ready"
+msgstr "উপাদান প্রস্তুত"
+
+#: app/Core/Hook/RequiredPlugins.php:68
+msgid "WC Shopping Cart"
+msgstr "বাথরূম শপিং কার্ট"
+
+#: app/Core/Hook/RequiredPlugins.php:74
+msgid "binduz Essentials"
+msgstr "binduz প্রয়োজনীয়"
+
+#: app/Core/Sidebar.php:26
+msgid "Blog widget area"
+msgstr "ব্লগ উইজেট এলাকায়"
+
+#: app/Core/Sidebar.php:28
+msgid "Appears on posts."
+msgstr "মনে হচ্ছে পোস্ট."
+
+#: app/Core/Tags.php:48 app/Core/Tags.php:53
+msgid ", "
+msgstr ", "
+
+#: app/Core/Tags.php:50
+#, php-format
+msgid "Posted in %1$s"
+msgstr "পোস্ট করা হয়েছে %1$s"
+
+#: app/Core/Tags.php:55
+#, php-format
+msgid "Tagged %1$s"
+msgstr "বাঁধা %1$s"
+
+#: app/Core/Tags.php:61
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: app/Core/Tags.php:67
+#, php-format
+msgid "Edit %s"
+msgstr "সম্পাদনা %s"
+
+#: app/Core/Tranding_Post.php:77
+#: framework-customizations/theme/options/customizer/options-newsticker.php:47
+msgid "Trending"
+msgstr "গতিবিধি"
+
+#: app/Plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "ইনস্টল প্লাগইন প্রয়োজন"
+
+#: app/Plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "প্লাগইন ইনস্টল"
+
+#: app/Plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "প্লাগইন ইনস্টল করার প্রক্রিয়া: %s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "আপডেট প্লাগইন: %s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "কিছু ভুল প্লাগ সঙ্গে API-টি."
+
+#: app/Plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "রিটার্ন করার প্রয়োজন প্লাগইন ইনস্টলার"
+
+#: app/Plugins/class-tgm-plugin-activation.php:386
+#: app/Plugins/class-tgm-plugin-activation.php:823
+#: app/Plugins/class-tgm-plugin-activation.php:2529
+#: app/Plugins/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr "ফিরে ড্যাশবোর্ড"
+
+#: app/Plugins/class-tgm-plugin-activation.php:387
+#: app/Plugins/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr "প্লাগইন সফলভাবে সক্রিয় করা হয়েছে৷"
+
+#: app/Plugins/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "নিম্নলিখিত প্লাগ ছিল, সফলভাবে সক্রিয়:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "কোন পদক্ষেপ নেওয়া. প্লাগইন %1$s আগে থেকেই ছিল সক্রিয়."
+
+#: app/Plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"প্লাগইন সক্রিয় করা হয়নি। এই থিমের জন্য %s এর একটি উচ্চতর সংস্করণ প্রয়োজন৷ "
+"প্লাগইন আপডেট করুন."
+
+#: app/Plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "সব প্লাগইন ইনস্টল এবং সক্রিয় সফলভাবে. %1$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "এই বরখাস্ত নোটিশ"
+
+#: app/Plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"আছে এক বা একাধিক প্রয়োজন বা প্রস্তাবিত প্লাগিন ইনস্টল, আপডেট বা সক্রিয়."
+
+#: app/Plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "সাহায্যের জন্য এই সাইটের প্রশাসকের সাথে যোগাযোগ করুন"
+
+#: app/Plugins/class-tgm-plugin-activation.php:518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "এই প্লাগ আপডেট করা প্রয়োজন সঙ্গে সামঞ্জস্যপূর্ণ হতে আপনার থিম."
+
+#: app/Plugins/class-tgm-plugin-activation.php:519
+msgid "Update Required"
+msgstr "আপডেট প্রয়োজন"
+
+#: app/Plugins/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"রিমোট প্লাগইন প্যাকেজ না থাকে, সঙ্গে একটি ফোল্ডার পছন্দসই স্লাগ্ এবং "
+"পুনঃনামকরনের কাজ করা হয়নি."
+
+#: app/Plugins/class-tgm-plugin-activation.php:930
+#: app/Plugins/class-tgm-plugin-activation.php:933
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"দয়া করে যোগাযোগ প্লাগইন প্রদানকারী এবং তাদের জিজ্ঞাসা প্যাকেজের তাদের প্লাগ "
+"অনুযায়ী, ওয়ার্ডপ্রেস নির্দেশিকা."
+
+#: app/Plugins/class-tgm-plugin-activation.php:933
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"রিমোট প্লাগইন প্যাকেজ নিয়ে গঠিত একাধিক ফাইল কিন্তু ফাইল না হয় গাঁটবন্দী "
+"একটি ফোল্ডারে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr "প্রয়োজন"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr "প্রস্তাবিত"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr "ওয়ার্ডপ্রেস সংগ্রহস্থলের"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr "এক্সটার্নাল সোর্স"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr "প্রাক প্যাকেজ"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr "ইনস্টল করা না"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr "ইনস্টল করার পরে, কিন্তু না সক্রিয়"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr "সক্রিয়"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr "প্রয়োজনীয় আপডেট পাওয়া যায় না"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr "প্রয়োজন আপডেট"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr "আপডেট বাঞ্ছনীয়"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr "ইনস্টল সংস্করণ:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr "ন্যূনতম প্রয়োজনীয় সংস্করণ:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr "উপলব্ধ সংস্করণ:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr "কোন প্লাগিন ইনস্টল, আপডেট বা সক্রিয়."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr "প্লাগইন"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr "উৎস"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2545
+#: framework-customizations/theme/options/customizer/options-general.php:92
+msgid "Type"
+msgstr "টাইপ"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr "সংস্করণ"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr "অবস্থা"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr "ইনস্টল %2$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr "আপডেট %2$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr "সক্রিয় %2$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr "আপগ্রেড থেকে বার্তা প্লাগ লেখক:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr "ইনস্টল"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr "আপডেট"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr "সক্রিয়"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "কোন প্লাগিন নির্বাচিত করা হয় ইনস্টল করা হবে. কোন পদক্ষেপ নেওয়া."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "কোন প্লাগিন নির্বাচিত করা হয় আপডেট করা হবে. কোন পদক্ষেপ নেওয়া."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr "কোন প্লাগইন পাওয়া যায়, ইনস্টল করা হবে এই সময়ে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr "কোন প্লাগইন পাওয়া যায়, আপডেট করা হবে এই সময়ে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "কোন প্লাগিন নির্বাচিত করা হয় সক্রিয় করা হবে. কোন পদক্ষেপ নেওয়া."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr "কোন প্লাগিন উপলব্ধ করা হয় সক্রিয় করা হবে এই সময়ে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr "প্লাগইন সক্রিয়করণ ব্যর্থ হয়েছে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "আপডেট প্লাগইন %1$s (%2$d/%3$d)"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ইনস্টলেশন %1$s ব্যর্থ হয়েছে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3503
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"ইনস্টলেশন এবং অ্যাক্টিভেশন প্রক্রিয়া শুরু হয়. এই প্রক্রিয়া সময় নিতে পারে,"
+" কিছু হোস্ট, তাই দয়া করে ধৈর্য ধরুন."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s ইনস্টল এবং সক্রিয় সফলভাবে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr "শো বিবরণ"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr "আড়াল বিস্তারিত"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr "সব ইনস্টলেশন ও সক্রিয়করণব্যবস্থা সম্পন্ন হয়েছে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "ইনস্টল এবং প্লাগইন সক্রিয় %1$s (%2$d/%3$d)"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"ইনস্টলেশন প্রক্রিয়া শুরু হয়. এই প্রক্রিয়া সময় নিতে পারে, কিছু হোস্ট, তাই "
+"দয়া করে ধৈর্য ধরুন."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s সফলভাবে ইনস্টল."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr "সব ইনস্টলেশন সম্পন্ন হয়েছে."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "প্লাগইন ইনস্টল করার প্রক্রিয়া %1$s (%2$d/%3$d)"
+
+#: app/Setup/Enqueue.php:64
+msgid "Loading More Posts..."
+msgstr "লোড আরও পোস্ট..."
+
+#: app/Setup/Menus.php:24
+msgid "Primary"
+msgstr "প্রাথমিক"
+
+#: app/Setup/Menus.php:28
+msgid "Footer nav"
+msgstr "পাদচরণ এনএভি"
+
+#: app/Utility/Helpers.php:254 app/Utility/Helpers.php:265
+#: app/Utility/Helpers.php:303 app/Utility/Helpers.php:314
+#: template-parts/blog/category/style5/format/standard-audio.php:18
+#: template-parts/blog/category/style5/format/standard-image.php:32
+#: template-parts/blog/category/style5/format/standard-video.php:18
+#: template-parts/blog/category/style5/format/standard.php:32
+#: template-parts/blog/category/style6/format/standard-audio.php:13
+#: template-parts/blog/category/style6/format/standard-image.php:26
+#: template-parts/blog/category/style6/format/standard-video.php:26
+#: template-parts/blog/category/style6/format/standard.php:26
+msgid "By"
+msgstr "দ্বারা"
+
+#: app/Utility/Helpers.php:504
+msgid " minute read"
+msgstr " মিনিট পড়ুন"
+
+#: app/Utility/Helpers.php:506
+msgid " minutes read"
+msgstr " মিনিট পড়ুন"
+
+#: app/Utility/Helpers.php:556
+msgid "More pages: "
+msgstr "আরো পেজ: "
+
+#: app/Utility/Helpers.php:560
+msgid "Next "
+msgstr "পরবর্তী "
+
+#: app/Utility/Helpers.php:561
+msgid "Previous"
+msgstr "পূর্ববর্তী"
+
+#: app/Utility/Helpers.php:624
+msgid "says:"
+msgstr "বলেছেন:"
+
+#: app/Utility/Helpers.php:630
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s এ %2$s"
+
+#: app/Utility/Helpers.php:632
+msgid "(Edit)"
+msgstr "(সম্পাদনা)"
+
+#: app/Utility/Helpers.php:654
+msgid "read more"
+msgstr "আরো পড়ুন"
+
+#: app/Utility/Helpers.php:693
+msgid "Prev Post"
+msgstr "পূর্ববর্তী পোস্ট"
+
+#: app/Utility/Helpers.php:704
+msgid "Next Post"
+msgstr "পরবর্তী পোস্ট"
+
+#: app/Utility/Helpers.php:712
+msgid "post-bars"
+msgstr "পোস্ট-বার"
+
+#: app/Utility/Helpers.php:783
+#, php-format
+msgid "%s ago"
+msgstr "%s আগে"
+
+#: app/Utility/Helpers.php:854
+msgid "None"
+msgstr "কেউ"
+
+#: app/Utility/Helpers.php:865
+msgid "Full"
+msgstr "পূর্ণ"
+
+#: app/Utility/Helpers.php:1046
+msgid "0"
+msgstr "0"
+
+#: app/Utility/Helpers.php:1050
+msgid "Share"
+msgstr "শেয়ার করুন"
+
+#: app/Utility/Helpers.php:1052
+msgid "tweet"
+msgstr "টুইট"
+
+#: app/Utility/Helpers.php:1054
+msgid "share"
+msgstr "শেয়ার করুন"
+
+#: app/Utility/Helpers.php:1182
+msgid "Send"
+msgstr "পাঠান"
+
+#: app/Utility/Helpers.php:1183
+msgid "Leave a Comment"
+msgstr "একটি মন্তব্য"
+
+#: app/Utility/Helpers.php:1184
+msgid "Reply"
+msgstr "উত্তর"
+
+#: app/Utility/Helpers.php:1185
+msgid "Name"
+msgstr "নাম"
+
+#: app/Utility/Helpers.php:1186
+msgid "E-Mail"
+msgstr "ই-মেইল"
+
+#: app/Utility/Helpers.php:1187
+msgid "Comment"
+msgstr "মন্তব্য"
+
+#: app/Utility/Helpers.php:1188
+msgid "Website"
+msgstr "ওয়েবসাইট"
+
+#: app/Utility/Helpers.php:1189
+msgid " By commenting you accept the"
+msgstr " মন্তব্য দ্বারা আপনি গ্রহণ"
+
+#: app/Utility/Helpers.php:1190
+msgid " Privacy Policy"
+msgstr " গোপনীয়তা নীতি"
+
+#: app/Utility/Helpers.php:1193
+msgid "Cancel Reply"
+msgstr "উত্তর বাতিল করুন"
+
+#: app/Utility/Helpers.php:1194 app/Utility/Helpers.php:1373
+msgid "Submit"
+msgstr "জমা"
+
+#: app/Utility/Helpers.php:1303
+#, php-format
+msgid ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a>. <a href=\"%4$s\">"
+"Log out?</a>"
+msgstr ""
+
+#: app/Utility/Helpers.php:1306
+#, php-format
+msgid "Logged in as %s. Edit your profile."
+msgstr "হিসেবে লগ ইন %s. আপনার প্রোফাইল সম্পাদনা করুন."
+
+#: app/Utility/Helpers.php:1371
+msgid "To view this protected post, enter the password below:"
+msgstr "এই সুরক্ষিত পোস্ট দেখতে, নীচের পাসওয়ার্ড লিখুন:"
+
+#: app/Utility/Helpers.php:1372
+msgid "Enter Password"
+msgstr "পাসওয়ার্ড লিখুন"
+
+#: app/Utility/global.php:218
+msgid "Readmore"
+msgstr "আরও পড়ুন"
+
+#: app/Utility/global.php:399
+#: framework-customizations/theme/options/customizer/options-general.php:321
+msgid "Facebook"
+msgstr "ফেসবুক"
+
+#: app/Utility/global.php:400
+msgid "twitter"
+msgstr "টুইটার"
+
+#: app/Utility/global.php:401
+msgid "linkedin"
+msgstr "সেলিম"
+
+#: app/Utility/global.php:402
+msgid "pinterest "
+msgstr "pinterest "
+
+#: app/Utility/global.php:403
+msgid "digg"
+msgstr "digg"
+
+#: app/Utility/global.php:404
+msgid "tumblr"
+msgstr "টাম্বলার"
+
+#: app/Utility/global.php:405 app/Utility/global.php:413
+msgid "blogger"
+msgstr "ব্লগার"
+
+#: app/Utility/global.php:406
+msgid "reddit"
+msgstr "reddit"
+
+#: app/Utility/global.php:407
+msgid "delicious"
+msgstr "সুস্বাদু"
+
+#: app/Utility/global.php:408 app/Utility/global.php:415
+msgid "flipboard"
+msgstr "ফ্লিপবোর্ড"
+
+#: app/Utility/global.php:409
+msgid "vkontakte"
+msgstr "vkontakte"
+
+#: app/Utility/global.php:410
+msgid "odnoklassniki"
+msgstr "odnoklassniki"
+
+#: app/Utility/global.php:411
+msgid "moimir"
+msgstr "moimir"
+
+#: app/Utility/global.php:412
+msgid "livejournal"
+msgstr "লাইভজার্নাল"
+
+#: app/Utility/global.php:414
+msgid "evernote"
+msgstr "evernote এই ধরনের"
+
+#: app/Utility/global.php:416
+msgid "mix"
+msgstr "মিশ্রিত করা"
+
+#: app/Utility/global.php:417
+msgid "meneame "
+msgstr "meneame "
+
+#: app/Utility/global.php:418
+msgid "pocket "
+msgstr "পকেট "
+
+#: app/Utility/global.php:419
+msgid "surfingbird "
+msgstr "surfingbird "
+
+#: app/Utility/global.php:420
+msgid "liveinternet "
+msgstr "liveinternet "
+
+#: app/Utility/global.php:421
+msgid "buffer "
+msgstr "বাফার "
+
+#: app/Utility/global.php:422
+msgid "instapaper "
+msgstr "instapaper "
+
+#: app/Utility/global.php:423
+msgid "xing "
+msgstr "xing, "
+
+#: app/Utility/global.php:424
+msgid "wordpres "
+msgstr "wordpres "
+
+#: app/Utility/global.php:425
+msgid "baidu "
+msgstr "বাইডু "
+
+#: app/Utility/global.php:426
+msgid "renren "
+msgstr "renren "
+
+#: app/Utility/global.php:427
+msgid "weibo "
+msgstr "ওয়েইবো "
+
+#: app/Utility/global.php:504
+msgid "Old Writter"
+msgstr "পুরাতন লেখক"
+
+#: app/Utility/global.php:504
+msgid "New Writter"
+msgstr "নতুন লেখক"
+
+#: app/Utility/template-tags.php:57
+msgid "Home"
+msgstr "বাড়ি"
+
+#: app/Utility/template-tags.php:129 app/Utility/template-tags.php:135
+#: app/Utility/template-tags.php:141
+msgid "Blogs for"
+msgstr "ব্লগের জন্য"
+
+#: app/Utility/template-tags.php:147
+msgid "Author Blogs"
+msgstr "লেখক ব্লগ"
+
+#: app/Utility/template-tags.php:152
+msgid "Blogs"
+msgstr "ব্লগ"
+
+#: app/Utility/template-tags.php:157
+msgid "Search Result"
+msgstr "অনুসন্ধান ফলাফল"
+
+#: app/Utility/template-tags.php:162
+msgid "404 Not Found"
+msgstr "404 পাওয়া যায়নি"
+
+#: comments.php:24
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "One thought on \"%1$s\""
+
+#: framework-customizations/option-types/new-icon/new-icon2.php:142
+msgid "Unknown Set"
+msgstr "অজানা সেট"
+
+#: framework-customizations/option-types/new-icon/new-icon2.php:156
+msgid "Brand"
+msgstr "ব্র্যান্ড"
+
+#: framework-customizations/option-types/new-icon/new-icon2.php:157
+msgid "web-application"
+msgstr "ওয়েব-আবেদন"
+
+#: framework-customizations/option-types/new-icon/view.php:39
+msgid "All Categories"
+msgstr "সব বিভাগ"
+
+#: framework-customizations/theme/manifest.php:5
+msgid "binduz"
+msgstr "binduz"
+
+#: framework-customizations/theme/manifest.php:7
+msgid "Binduz is Newspaper and Magazine WordPress Theme"
+msgstr "Binduz হয়, সংবাদপত্র ও ম্যাগাজিন ওয়ার্ডপ্রেস থিম"
+
+#: framework-customizations/theme/options/customizer.php:10
+msgid "Binduz settings"
+msgstr "Binduz সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:7
+msgid "Advertisement "
+msgstr "বিজ্ঞাপন "
+
+#: framework-customizations/theme/options/customizer/options-ads.php:13
+#: framework-customizations/theme/options/customizer/options-ads.php:14
+msgid "Header banner"
+msgstr "হেডার ব্যানার"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:19
+#: framework-customizations/theme/options/customizer/options-ads.php:71
+#: framework-customizations/theme/options/customizer/options-ads.php:129
+msgid "Enable Ad"
+msgstr "সক্রিয় বিজ্ঞাপন"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:20
+#: framework-customizations/theme/options/customizer/options-ads.php:72
+#: framework-customizations/theme/options/customizer/options-ads.php:130
+msgid "Do you want to enable Ad?"
+msgstr "আপনি সক্রিয় করতে চান, বিজ্ঞাপন?"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:24
+#: framework-customizations/theme/options/customizer/options-ads.php:38
+#: framework-customizations/theme/options/customizer/options-ads.php:76
+#: framework-customizations/theme/options/customizer/options-ads.php:134
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:18
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:33
+#: framework-customizations/theme/options/customizer/options-blog-single.php:54
+#: framework-customizations/theme/options/customizer/options-blog-single.php:69
+#: framework-customizations/theme/options/customizer/options-blog-single.php:103
+#: framework-customizations/theme/options/customizer/options-blog-single.php:136
+#: framework-customizations/theme/options/customizer/options-blog-single.php:151
+#: framework-customizations/theme/options/customizer/options-blog-single.php:166
+#: framework-customizations/theme/options/customizer/options-blog-single.php:180
+#: framework-customizations/theme/options/customizer/options-blog-single.php:195
+#: framework-customizations/theme/options/customizer/options-blog-single.php:210
+#: framework-customizations/theme/options/customizer/options-blog-single.php:225
+#: framework-customizations/theme/options/customizer/options-blog-single.php:240
+#: framework-customizations/theme/options/customizer/options-blog-single.php:259
+#: framework-customizations/theme/options/customizer/options-blog-single.php:273
+#: framework-customizations/theme/options/customizer/options-blog.php:101
+#: framework-customizations/theme/options/customizer/options-blog.php:115
+#: framework-customizations/theme/options/customizer/options-blog.php:129
+#: framework-customizations/theme/options/customizer/options-blog.php:143
+#: framework-customizations/theme/options/customizer/options-blog.php:157
+#: framework-customizations/theme/options/customizer/options-blog.php:172
+#: framework-customizations/theme/options/customizer/options-blog.php:187
+#: framework-customizations/theme/options/customizer/options-blog.php:202
+#: framework-customizations/theme/options/customizer/options-blog.php:224
+#: framework-customizations/theme/options/customizer/options-blog.php:239
+#: framework-customizations/theme/options/customizer/options-blog.php:259
+#: framework-customizations/theme/options/customizer/options-blog.php:289
+#: framework-customizations/theme/options/customizer/options-blog.php:324
+#: framework-customizations/theme/options/customizer/options-blog.php:339
+#: framework-customizations/theme/options/customizer/options-blog.php:354
+#: framework-customizations/theme/options/customizer/options-footer.php:165
+#: framework-customizations/theme/options/customizer/options-general.php:24
+#: framework-customizations/theme/options/customizer/options-general.php:127
+#: framework-customizations/theme/options/customizer/options-general.php:182
+#: framework-customizations/theme/options/customizer/options-general.php:198
+#: framework-customizations/theme/options/customizer/options-general.php:253
+#: framework-customizations/theme/options/customizer/options-header.php:47
+#: framework-customizations/theme/options/customizer/options-header.php:63
+#: framework-customizations/theme/options/customizer/options-header.php:103
+#: framework-customizations/theme/options/customizer/options-header.php:140
+#: framework-customizations/theme/options/customizer/options-header.php:154
+#: framework-customizations/theme/options/customizer/options-header.php:184
+#: framework-customizations/theme/options/customizer/options-header.php:227
+#: framework-customizations/theme/options/customizer/options-header.php:288
+#: framework-customizations/theme/options/customizer/options-newsticker.php:18
+#: framework-customizations/theme/options/customizer/options-newsticker.php:59
+#: framework-customizations/theme/options/posts/page.php:34
+#: framework-customizations/theme/options/posts/page.php:81
+#: framework-customizations/theme/options/posts/page.php:98
+#: framework-customizations/theme/options/posts/post.php:48
+#: framework-customizations/theme/options/taxonomies/category.php:13
+#: framework-customizations/theme/options/taxonomies/category.php:97
+#: framework-customizations/theme/options/taxonomies/category.php:127
+msgid "Yes"
+msgstr "হ্যাঁ"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:28
+#: framework-customizations/theme/options/customizer/options-ads.php:42
+#: framework-customizations/theme/options/customizer/options-ads.php:80
+#: framework-customizations/theme/options/customizer/options-ads.php:138
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:22
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:37
+#: framework-customizations/theme/options/customizer/options-blog-single.php:58
+#: framework-customizations/theme/options/customizer/options-blog-single.php:73
+#: framework-customizations/theme/options/customizer/options-blog-single.php:107
+#: framework-customizations/theme/options/customizer/options-blog-single.php:140
+#: framework-customizations/theme/options/customizer/options-blog-single.php:155
+#: framework-customizations/theme/options/customizer/options-blog-single.php:170
+#: framework-customizations/theme/options/customizer/options-blog-single.php:184
+#: framework-customizations/theme/options/customizer/options-blog-single.php:199
+#: framework-customizations/theme/options/customizer/options-blog-single.php:214
+#: framework-customizations/theme/options/customizer/options-blog-single.php:229
+#: framework-customizations/theme/options/customizer/options-blog-single.php:244
+#: framework-customizations/theme/options/customizer/options-blog-single.php:263
+#: framework-customizations/theme/options/customizer/options-blog-single.php:277
+#: framework-customizations/theme/options/customizer/options-blog.php:105
+#: framework-customizations/theme/options/customizer/options-blog.php:119
+#: framework-customizations/theme/options/customizer/options-blog.php:133
+#: framework-customizations/theme/options/customizer/options-blog.php:147
+#: framework-customizations/theme/options/customizer/options-blog.php:161
+#: framework-customizations/theme/options/customizer/options-blog.php:176
+#: framework-customizations/theme/options/customizer/options-blog.php:191
+#: framework-customizations/theme/options/customizer/options-blog.php:206
+#: framework-customizations/theme/options/customizer/options-blog.php:228
+#: framework-customizations/theme/options/customizer/options-blog.php:243
+#: framework-customizations/theme/options/customizer/options-blog.php:263
+#: framework-customizations/theme/options/customizer/options-blog.php:293
+#: framework-customizations/theme/options/customizer/options-blog.php:328
+#: framework-customizations/theme/options/customizer/options-blog.php:343
+#: framework-customizations/theme/options/customizer/options-blog.php:358
+#: framework-customizations/theme/options/customizer/options-footer.php:169
+#: framework-customizations/theme/options/customizer/options-general.php:29
+#: framework-customizations/theme/options/customizer/options-general.php:131
+#: framework-customizations/theme/options/customizer/options-general.php:186
+#: framework-customizations/theme/options/customizer/options-general.php:202
+#: framework-customizations/theme/options/customizer/options-general.php:257
+#: framework-customizations/theme/options/customizer/options-header.php:52
+#: framework-customizations/theme/options/customizer/options-header.php:68
+#: framework-customizations/theme/options/customizer/options-header.php:108
+#: framework-customizations/theme/options/customizer/options-header.php:145
+#: framework-customizations/theme/options/customizer/options-header.php:159
+#: framework-customizations/theme/options/customizer/options-header.php:189
+#: framework-customizations/theme/options/customizer/options-header.php:232
+#: framework-customizations/theme/options/customizer/options-header.php:293
+#: framework-customizations/theme/options/customizer/options-newsticker.php:22
+#: framework-customizations/theme/options/customizer/options-newsticker.php:63
+#: framework-customizations/theme/options/posts/page.php:38
+#: framework-customizations/theme/options/posts/page.php:85
+#: framework-customizations/theme/options/posts/page.php:102
+#: framework-customizations/theme/options/posts/post.php:52
+#: framework-customizations/theme/options/taxonomies/category.php:17
+#: framework-customizations/theme/options/taxonomies/category.php:101
+#: framework-customizations/theme/options/taxonomies/category.php:131
+msgid "No"
+msgstr "কোন"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:33
+msgid "Page Only"
+msgstr "পৃষ্ঠা শুধুমাত্র"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:34
+msgid "Do you want to page specific?"
+msgstr "আপনি কি করতে চান, পৃষ্ঠা নির্দিষ্ট?"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:47
+msgid "Ads link"
+msgstr "বিজ্ঞাপন লিংক"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:50
+msgid "Ads Image"
+msgstr "বিজ্ঞাপন চিত্র"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:56
+#: framework-customizations/theme/options/customizer/options-ads.php:96
+#: framework-customizations/theme/options/customizer/options-ads.php:154
+msgid "Ad html"
+msgstr "বিজ্ঞাপন এইচটিএমএল"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:57
+#: framework-customizations/theme/options/customizer/options-ads.php:97
+#: framework-customizations/theme/options/customizer/options-ads.php:155
+msgid "You can use Adsense code here."
+msgstr "আপনি এখানে অ্যাডসেন্স কোড ব্যবহার করতে পারেন।"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:65
+#: framework-customizations/theme/options/customizer/options-ads.php:66
+#: framework-customizations/theme/options/customizer/options-ads.php:123
+#: framework-customizations/theme/options/customizer/options-ads.php:124
+msgid "Single blog Ad"
+msgstr "একক ব্লগ বিজ্ঞাপন"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:86
+#: framework-customizations/theme/options/customizer/options-ads.php:144
+msgid "Ad link"
+msgstr "বিজ্ঞাপন লিংক"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:90
+#: framework-customizations/theme/options/customizer/options-ads.php:148
+msgid "Ad Image"
+msgstr "বিজ্ঞাপন চিত্র"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:103
+#: framework-customizations/theme/options/customizer/options-ads.php:161
+msgid "Ad position"
+msgstr "বিজ্ঞাপন অবস্থান"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:106
+#: framework-customizations/theme/options/customizer/options-ads.php:164
+msgid "Before post title"
+msgstr "আগে পোস্ট শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:107
+#: framework-customizations/theme/options/customizer/options-ads.php:165
+msgid "Before post content"
+msgstr "পোস্ট করার আগে কন্টেন্ট"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:108
+#: framework-customizations/theme/options/customizer/options-ads.php:166
+msgid "After post content"
+msgstr "পরে পোস্ট কন্টেন্ট"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:109
+#: framework-customizations/theme/options/customizer/options-ads.php:167
+msgid "After post tag"
+msgstr "পরে পোস্ট ট্যাগ"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:8
+msgid "Blog Comment settings"
+msgstr "ব্লগ মন্তব্য সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:13
+msgid "Cookie"
+msgstr "কুকি"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:14
+msgid "Would you like to enable cookie in comment form?"
+msgstr "আপনি করতে চান কুকি সক্রিয় করুন মন্তব্য ফর্ম?"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:28
+msgid "Website Url"
+msgstr "ওয়েবসাইট Url টি"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:29
+msgid "Would you like to enable website url field in comment form?"
+msgstr "আপনি মন্তব্য আকারে ওয়েবসাইটের url ক্ষেত্র সক্রিয় করতে চান?"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:45
+msgid "Comment Before Note"
+msgstr "মন্তব্য করার আগে, মনে রাখবেন"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:46
+msgid " Comment field before text "
+msgstr " মন্তব্য ক্ষেত্রের আগে, টেক্সট "
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:54
+msgid "Comment After Note"
+msgstr "পরে মন্তব্য দ্রষ্টব্য"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:55
+msgid " Comment after before text "
+msgstr " পরে মন্তব্য করার আগে টেক্সট "
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:9
+msgid "Blog details settings"
+msgstr "ব্লগ বিবরণ সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:12
+#: framework-customizations/theme/options/posts/post.php:56
+msgid "Post header layout"
+msgstr "পোস্ট শিরোলেখ বিন্যাস"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:13
+#: framework-customizations/theme/options/posts/post.php:57
+msgid "Single post's header style."
+msgstr "একক পোস্ট এর হেডার শৈলী."
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:33
+#: framework-customizations/theme/options/posts/post.php:75
+msgid "Sidebar widget"
+msgstr "সাইডবার উইজেট"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:34
+msgid "Blog post sidebar layout"
+msgstr "ব্লগ পোস্ট, পার্শ্বদন্ডে বিন্যাস"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:37
+#: framework-customizations/theme/options/customizer/options-blog.php:19
+#: framework-customizations/theme/options/posts/post.php:79
+msgid "No sidebar"
+msgstr "কোন পার্শ্বদন্ডে"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:38
+#: framework-customizations/theme/options/customizer/options-blog.php:21
+#: framework-customizations/theme/options/posts/post.php:80
+msgid "Right Sidebar"
+msgstr "ডান পার্শ্বদণ্ড"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:49
+#: framework-customizations/theme/options/customizer/options-general.php:293
+#: framework-customizations/theme/options/customizer/options-general.php:303
+msgid "Social share"
+msgstr "সামাজিক সেয়ার"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:50
+msgid "Do you want to show social share buttons?"
+msgstr "আপনি প্রদর্শন করতে চান সামাজিক শেয়ার বাটন?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:64
+msgid "Blog Mailchimp"
+msgstr "ব্লগ Mailchimp"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:65
+msgid "Do you want to show single blog mailchimp?"
+msgstr "আপনি প্রদর্শন করতে চান একক ব্লগ mailchimp?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:78
+msgid "Mailchimp Top Title"
+msgstr "মেইলচিম্প শীর্ষ শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:80
+msgid "Newsletter"
+msgstr "নিউজলেটার"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:84
+msgid "Mailchimp Title"
+msgstr "মেইলচিম্প শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:86
+msgid "Get every weekly update & insights"
+msgstr "পেতে প্রতি সাপ্তাহিক আপডেট & অর্ন্তদৃষ্টি"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:90
+msgid "Mailchimp Image"
+msgstr "মেইলচিম্প ইমেজ"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:91
+msgid "It will be shown on any \"single post bottom\" area."
+msgstr "এটি দেখানো হবে কোন \"একক পোস্ট নীচে\" এলাকায়."
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:98
+msgid "Blog related post"
+msgstr "ব্লগ সম্পর্কিত পোস্ট"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:99
+msgid "Do you want to show single blog related post?"
+msgstr "আপনি প্রদর্শন করতে চান একক ব্লগ পোস্ট সম্পর্কিত?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:112
+msgid "Related post title"
+msgstr "সম্পর্কিত পোস্ট শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:114
+msgid "Related post"
+msgstr "সম্পর্কিত পোস্ট"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:118
+msgid "Related post count"
+msgstr "সম্পর্কিত পোস্ট গণনা"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:123
+msgid "Related post title limit"
+msgstr "সম্পর্কিত পোস্ট শিরোনাম সীমা"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:131
+msgid "Post view counter"
+msgstr "পোস্ট ভিউ কাউন্টার"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:132
+#: framework-customizations/theme/options/customizer/options-blog-single.php:147
+msgid "Do you want to show the view counter in posts?"
+msgstr "আপনি কি দেখাতে চান দেখুন কাউন্টার পোস্ট?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:146
+msgid "Post share count"
+msgstr "পোস্ট শেয়ার গণনা"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:161
+#: framework-customizations/theme/options/customizer/options-blog.php:182
+msgid "Blog Comment"
+msgstr "ব্লগ মন্তব্য"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:162
+msgid "Do you want to show blog Comment?"
+msgstr "আপনি প্রদর্শন করতে চান, ব্লগ মন্তব্য?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:175
+#: framework-customizations/theme/options/customizer/options-blog.php:110
+msgid "Blog author"
+msgstr "ব্লগ লেখক"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:176
+#: framework-customizations/theme/options/customizer/options-blog.php:111
+msgid "Do you want to show blog author?"
+msgstr "আপনি প্রদর্শন করতে চান, ব্লগ লেখক?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:190
+#: framework-customizations/theme/options/customizer/options-blog.php:124
+msgid "Blog author image"
+msgstr "ব্লগ লেখক ইমেজ"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:191
+#: framework-customizations/theme/options/customizer/options-blog.php:125
+msgid "Do you want to show blog author image?"
+msgstr "আপনি প্রদর্শন করতে চান, ব্লগ লেখক ইমেজ?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:205
+#: framework-customizations/theme/options/customizer/options-blog.php:138
+msgid "Blog date"
+msgstr "ব্লগ আপলোড"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:206
+#: framework-customizations/theme/options/customizer/options-blog.php:139
+msgid "Do you want to show blog date?"
+msgstr "আপনি প্রদর্শন করতে চান ব্লগ আপলোড?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:220
+#: framework-customizations/theme/options/customizer/options-blog.php:152
+msgid "Blog Category"
+msgstr "ব্লগ বিভাগ"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:221
+#: framework-customizations/theme/options/customizer/options-blog.php:153
+msgid "Do you want to show blog category?"
+msgstr "আপনি প্রদর্শন করতে চান, ব্লগ বিভাগ?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:235
+msgid "Blog navigation"
+msgstr "ব্লগ গৌণ"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:236
+msgid "Do you want to show single blog navigation post?"
+msgstr "আপনি প্রদর্শন করতে চান একক ব্লগ, গৌণ, পোস্ট?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:248
+msgid "Blog navigation title limit"
+msgstr "ব্লগ গৌণ শিরোনাম সীমা"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:254
+msgid "Blog author about"
+msgstr "ব্লগ লেখক সম্পর্কে"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:255
+msgid "Do you want to show blog author details box in footer?"
+msgstr "আপনি প্রদর্শন করতে চান, ব্লগ লেখক বিবরণ বক্স ফুটার মধ্যে?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:268
+msgid "Blog Comment box"
+msgstr "ব্লগ কমেন্ট বক্স"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:269
+msgid "Do you want to show blog comment box in footer?"
+msgstr "আপনি প্রদর্শন করতে চান ব্লগে মন্তব্য বক্সের মধ্যে পাদচরণ?"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:9
+msgid "Blog Style settings"
+msgstr "ব্লগ স্টাইল সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:13
+msgid "Blog Category color"
+msgstr "ব্লগ বিভাগ রঙ"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:15
+#: framework-customizations/theme/options/customizer/options-blog-style.php:20
+#: framework-customizations/theme/options/customizer/options-blog-style.php:26
+msgid ""
+"You can change the Blog Category background color with rgba color or solid "
+"color"
+msgstr ""
+"আপনি rgba রঙ বা কঠিন রঙ দিয়ে ব্লগ বিভাগের পটভূমির রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:18
+msgid "Blog Category bgcolor"
+msgstr "ব্লগ বিভাগ bgcolor"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:24
+msgid "Blog Category Hover bgcolor"
+msgstr "ব্লগ বিভাগ কার্সার রেখে দেখুন bgcolor"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:30
+msgid "Sidebar Background color"
+msgstr "পার্শ্বদন্ডে পটভূমির রঙ"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:32
+msgid ""
+"You can change the sidebar background color with rgba color or solid color"
+msgstr "আপনি rgba রঙ বা কঠিন রঙ দিয়ে সাইডবারের পটভূমির রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:41
+msgid "Sidebar Padding Top"
+msgstr "সাইডবারে শীর্ষ প্যাডিং"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:50
+msgid "Sidebar Padding bottom"
+msgstr "পার্শ্বদন্ডে নীচে প্যাডিং"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:59
+msgid "Sidebar Padding left right"
+msgstr "পার্শ্বদন্ডে প্যাডিং বাম, ডান"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:68
+msgid "Sidebar widget bottom margin"
+msgstr "পার্শ্বদন্ডে উইজেট নীচে মার্জিন"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:71
+#: framework-customizations/theme/options/customizer/options-footer.php:31
+msgid "Widget title color"
+msgstr "উইজেট শিরোনাম রঙ"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:73
+msgid ""
+"You can change the sidebar widget title color with rgba color or solid color"
+msgstr ""
+"আপনি rgba রঙ বা কঠিন রঙ দিয়ে সাইডবার উইজেট শিরোনাম রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:76
+msgid "Widget content color"
+msgstr "উইজেট কন্টেন্ট রঙ"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:78
+msgid ""
+"You can change the sidebar widget content color with rgba color or solid "
+"color"
+msgstr ""
+"আপনি rgba রঙ বা কঠিন রঙ দিয়ে সাইডবার উইজেট সামগ্রীর রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:88
+#: framework-customizations/theme/options/customizer/options-footer.php:102
+msgid "Widget title bottom"
+msgstr "উইজেট শিরোনাম নীচে"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:99
+#: framework-customizations/theme/options/customizer/options-footer.php:115
+msgid "Widget title top"
+msgstr "উইজেট  শিরোনাম শীর্ষ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:8
+msgid "Blog settings"
+msgstr "ব্লগ সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:15
+msgid "Sidebar"
+msgstr "পার্শ্বদন্ডে"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:16
+msgid "Description"
+msgstr "বিবরণ:"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:17
+msgid "Blog and Page sidebar "
+msgstr "ব্লগ ও পৃষ্ঠা পার্শ্বদন্ডে "
+
+#: framework-customizations/theme/options/customizer/options-blog.php:20
+msgid "Left Sidebar"
+msgstr "বাম সাইডবার"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:29
+#: framework-customizations/theme/options/taxonomies/category.php:22
+msgid "Blog style"
+msgstr "ব্লগ স্টাইল"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:30
+msgid "This is the site's main Blog style."
+msgstr "এই সাইট এর প্রধান ব্লগ শৈলী."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:74
+#: framework-customizations/theme/options/taxonomies/category.php:68
+msgid "Column Width"
+msgstr "কলাম প্রস্থ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:77
+#: framework-customizations/theme/options/taxonomies/category.php:71
+msgid "Full "
+msgstr "পূর্ণ "
+
+#: framework-customizations/theme/options/customizer/options-blog.php:78
+#: framework-customizations/theme/options/taxonomies/category.php:72
+msgid "2 Columns"
+msgstr "2 কলাম"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:79
+#: framework-customizations/theme/options/taxonomies/category.php:73
+msgid "3 Columns"
+msgstr "3 কলাম"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:89
+#: framework-customizations/theme/options/customizer/options-general.php:139
+#: framework-customizations/theme/options/taxonomies/category.php:83
+msgid "Image Size"
+msgstr "ইমেজ সাইজ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:96
+msgid "Breadcrumb"
+msgstr "ব্রেডক্রম্বে"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:97
+msgid "Do you want to show breadcrumb?"
+msgstr "আপনি প্রদর্শন করতে চান ব্রেডক্রম্বে?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:167
+msgid "Blog single category"
+msgstr "ব্লগ একক বিভাগ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:168
+msgid "Do you want to show blog single?"
+msgstr "আপনি প্রদর্শন করতে চান ব্লগ একক?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:183
+msgid "Do you want to show blog comment?"
+msgstr "আপনি প্রদর্শন করতে চান, ব্লগ মন্তব্য?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:197
+msgid "Blog Readmore"
+msgstr "ব্লগ Readmore"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:198
+msgid "Do you want to show blog readmore button?"
+msgstr "আপনি প্রদর্শন করতে চান ব্লগ readmore বাটন?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:211
+msgid "Readmore Button text"
+msgstr "আরও পড়ুন বাটন টেক্সট"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:212
+msgid "Readmore button text in blog, category"
+msgstr "আরও পড়ুন বাটন টেক্সট, ব্লগ, বিভাগ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:214
+msgid "Read More"
+msgstr "আরো পড়ুন"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:219
+msgid "Post child category"
+msgstr "পোস্ট সন্তানের বিভাগ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:220
+msgid "Do you want to show post child category?"
+msgstr "আপনি প্রদর্শন করতে চান পোস্ট সন্তানের বিভাগ?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:234
+msgid "Author image show"
+msgstr "লেখক ইমেজ প্রদর্শন"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:235
+msgid "Do you want to show author avatar image?"
+msgstr "আপনি প্রদর্শন করতে চান লেখক অবতার ইমেজ?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:255
+#: framework-customizations/theme/options/taxonomies/category.php:93
+msgid "Post title length"
+msgstr "পোস্টের শিরোনাম দৈর্ঘ্য"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:256
+#: framework-customizations/theme/options/taxonomies/category.php:94
+msgid "Enable disable post title length."
+msgstr "সক্রিয় নিষ্ক্রিয়, পোস্ট শিরোনাম দৈর্ঘ্য."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:271
+#: framework-customizations/theme/options/taxonomies/category.php:109
+msgid "Post title limit."
+msgstr "পোস্টের শিরোনাম সীমা."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:272
+#: framework-customizations/theme/options/taxonomies/category.php:110
+msgid "Post title limit, example: 10"
+msgstr "পোস্টের শিরোনাম, সীমা, যেমন: 10"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:285
+#: framework-customizations/theme/options/taxonomies/category.php:123
+msgid "Post word length"
+msgstr "পোস্টে শব্দ দৈর্ঘ্য"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:286
+#: framework-customizations/theme/options/taxonomies/category.php:124
+msgid "Enable disable  post word length."
+msgstr "সক্রিয় নিষ্ক্রিয়, পোস্ট, শব্দ দৈর্ঘ্য."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:301
+#: framework-customizations/theme/options/taxonomies/category.php:139
+msgid "Post word limit."
+msgstr "পোস্টে শব্দ সীমা."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:302
+#: framework-customizations/theme/options/taxonomies/category.php:140
+msgid "Post word limit, example: 100"
+msgstr "পোস্টে শব্দ সীমা উদাহরণ: 100"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:311
+msgid "Blog Archive Settings"
+msgstr "ব্লগ আর্কাইভ সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:312
+msgid "Blog archive page settings"
+msgstr "ব্লগ সংরক্ষাণাগার পাতা সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:313
+msgid "Blog Archive"
+msgstr "ব্লগ আর্কাইভ"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:319
+msgid "Show title"
+msgstr "প্রদর্শন শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:320
+msgid "Do you want to show archive title?"
+msgstr "আপনি প্রদর্শন করতে চান আর্কাইভ শিরোনাম?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:334
+msgid "Show Month"
+msgstr "শো মাস"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:335
+msgid "Do you want to show archive month filter option?"
+msgstr "আপনি প্রদর্শন করতে চান আর্কাইভ মাস ফিল্টার বিকল্প?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:349
+msgid "Show Year"
+msgstr "শো বছর"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:350
+msgid "Do you want to show archive year filter option?"
+msgstr "আপনি প্রদর্শন করতে চান আর্কাইভ বছর ফিল্টার বিকল্প?"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:8
+msgid "Footer settings"
+msgstr "পাদলেখ সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:13
+msgid "Footer style"
+msgstr "পাদলেখ শৈলী"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:14
+msgid "This is the site's main footer style."
+msgstr "এই সাইট এর প্রধান পাদচরণ শৈলী."
+
+#: framework-customizations/theme/options/customizer/options-footer.php:34
+#: framework-customizations/theme/options/customizer/options-footer.php:40
+#: framework-customizations/theme/options/customizer/options-footer.php:54
+msgid ""
+"You can change the footer background color with rgba color or solid color"
+msgstr "আপনি rgba রঙ বা কঠিন রঙ দিয়ে ফুটারের পটভূমির রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:37
+msgid "Text color"
+msgstr "টেক্সট রঙ"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:43
+msgid "Background image"
+msgstr "ব্যাকগ্রাউন্ড ইমেজ"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:45
+msgid "You can change the footer background image "
+msgstr "You can change the footer background image"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:52
+msgid "Background color"
+msgstr "পটভূমির রঙ"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:67
+msgid "Footer Padding top"
+msgstr "পাদলেখ শীর্ষ প্যাডিং"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:81
+msgid "Footer Padding bottom"
+msgstr "পাদচরণ নীচে প্যাডিং"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:87
+msgid "Widget Title"
+msgstr "উইজেট শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:88
+msgid "Change Widget Title position"
+msgstr "পরিবর্তন উইজেট শিরোনাম অবস্থান"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:121
+msgid "Copyright color"
+msgstr "কপিরাইট রঙ"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:124
+#: framework-customizations/theme/options/customizer/options-footer.php:130
+msgid ""
+"You can change the footer's copyright color with rgba color or solid color"
+msgstr "আপনি rgba রঙ বা কঠিন রঙ দিয়ে ফুটারের কপিরাইট রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:128
+msgid "Copyright bgcolor"
+msgstr "কপিরাইট bgcolor"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:134
+msgid "Copyright link color"
+msgstr "কপিরাইট লিঙ্ক রঙ"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:136
+msgid "You can change the copy right link color with rgba color or solid color"
+msgstr "আপনি rgba রঙ বা কঠিন রঙ দিয়ে কপি রাইট লিঙ্কের রঙ পরিবর্তন করতে পারেন"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:141
+msgid "&copy; 2022, Binduz. All Rights Reserved."
+msgstr "© 2022, Binduz. সব অধিকার সংরক্ষিত."
+
+#: framework-customizations/theme/options/customizer/options-footer.php:142
+msgid "Copyright text"
+msgstr "কপিরাইট টেক্সট"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:143
+msgid "This text will be shown at the footer of all pages."
+msgstr "এই টেক্সট দেখানো হবে এ ফুটার এর সব পেজ."
+
+#: framework-customizations/theme/options/customizer/options-footer.php:156
+msgid "Copyright Font size"
+msgstr "কপিরাইট ফন্ট সাইজ"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:161
+#: framework-customizations/theme/options/customizer/options-footer.php:175
+msgid "Back To Top"
+msgstr "উপরে ফিরে যান"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:176
+msgid "Back Button"
+msgstr "ব্যাক বোতাম"
+
+#: framework-customizations/theme/options/customizer/options-general.php:8
+msgid "General settings"
+msgstr "সাধারণ সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-general.php:13
+#: framework-customizations/theme/options/customizer/options-general.php:14
+msgid "Shop Product Columns"
+msgstr "দোকান পণ্য কলাম"
+
+#: framework-customizations/theme/options/customizer/options-general.php:20
+msgid "Logo text"
+msgstr "লোগো, টেক্সট"
+
+#: framework-customizations/theme/options/customizer/options-general.php:34
+msgid "Main logo"
+msgstr "প্রধান লোগো"
+
+#: framework-customizations/theme/options/customizer/options-general.php:35
+msgid ""
+"It's the main logo, mostly it will be shown on \"dark or coloreful\" type "
+"area."
+msgstr ""
+"এটা প্রধান লোগো, বেশিরভাগই এটা দেখানো হবে \"গাঢ় বা coloreful\" টাইপ এলাকায়."
+
+#: framework-customizations/theme/options/customizer/options-general.php:41
+msgid "Color logo"
+msgstr "রঙ লোগো"
+
+#: framework-customizations/theme/options/customizer/options-general.php:42
+msgid "It will be shown on any \"color background\" type area."
+msgstr "এটি দেখানো হবে কোন \"পটভূমির রঙ\" টাইপ এলাকায়."
+
+#: framework-customizations/theme/options/customizer/options-general.php:48
+msgid "Footer logo"
+msgstr "পাদচরণ লোগো"
+
+#: framework-customizations/theme/options/customizer/options-general.php:49
+msgid "It will be shown on any \"Footer secction\" type area."
+msgstr "এটি দেখানো হবে কোন \"পাদচরণ secction\" টাইপ এলাকায়."
+
+#: framework-customizations/theme/options/customizer/options-general.php:55
+msgid "Search logo"
+msgstr "অনুসন্ধান লোগো"
+
+#: framework-customizations/theme/options/customizer/options-general.php:56
+msgid "It will be shown on any \"Search popup section\" type area."
+msgstr "এটি দেখানো হবে কোন \"অনুসন্ধান পপআপ অধ্যায়\" টাইপ এলাকায়."
+
+#: framework-customizations/theme/options/customizer/options-general.php:62
+msgid "Offcanvas logo"
+msgstr "Offcanvas লোগো"
+
+#: framework-customizations/theme/options/customizer/options-general.php:63
+msgid "It will be shown on Mobile menu Area."
+msgstr "এটি দেখানো হবে উপর মোবাইল মেনু এলাকা."
+
+#: framework-customizations/theme/options/customizer/options-general.php:70
+msgid "About Site"
+msgstr "সম্পর্কে সাইট"
+
+#: framework-customizations/theme/options/customizer/options-general.php:71
+msgid "About"
+msgstr "সম্পর্কে"
+
+#: framework-customizations/theme/options/customizer/options-general.php:78
+msgid "Offcanvas Contact info"
+msgstr "Offcanvas যোগাযোগের তথ্য"
+
+#: framework-customizations/theme/options/customizer/options-general.php:79
+msgid ""
+"Add Contact info and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+msgstr ""
+"যোগ যোগাযোগের তথ্য, এবং এটি এর আইকন বর্গ নর্দন. এই সব fontaweseome-5 আইকন."
+
+#: framework-customizations/theme/options/customizer/options-general.php:80
+#: framework-customizations/theme/options/customizer/options-general.php:141
+#: framework-customizations/theme/options/customizer/options-general.php:219
+#: framework-customizations/theme/options/customizer/options-general.php:268
+#: framework-customizations/theme/options/customizer/options-general.php:295
+msgid "Add new"
+msgstr "নতুন যুক্ত করুন"
+
+#: framework-customizations/theme/options/customizer/options-general.php:86
+#: framework-customizations/theme/options/customizer/options-general.php:223
+#: framework-customizations/theme/options/customizer/options-general.php:273
+#: framework-customizations/theme/options/customizer/options-newsticker.php:170
+msgid "Title"
+msgstr "শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-general.php:87
+msgid "+212 34 45 45 98"
+msgstr "+212 34 45 45 98"
+
+#: framework-customizations/theme/options/customizer/options-general.php:95
+msgid "Email"
+msgstr "ইমেইল"
+
+#: framework-customizations/theme/options/customizer/options-general.php:96
+msgid "Phone"
+msgstr "ফোন"
+
+#: framework-customizations/theme/options/customizer/options-general.php:105
+msgid "Icon"
+msgstr "আইকন"
+
+#: framework-customizations/theme/options/customizer/options-general.php:115
+msgid "Breadcrumb word length"
+msgstr "ব্রেডক্রম্বে শব্দ দৈর্ঘ্য"
+
+#: framework-customizations/theme/options/customizer/options-general.php:116
+msgid "The length of the breadcumb text."
+msgstr "ব্রেডকম্ব পাঠের দৈর্ঘ্য"
+
+#: framework-customizations/theme/options/customizer/options-general.php:122
+msgid "Author about"
+msgstr "লেখক সম্পর্কে"
+
+#: framework-customizations/theme/options/customizer/options-general.php:123
+msgid "Show author about in author page?"
+msgstr "প্রদর্শন লেখক সম্পর্কে লেখক পাতা?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:140
+msgid "Add new image size if you need extra image size for theme"
+msgstr "যোগ নতুন ইমেজ সাইজ, আপনি প্রয়োজন হলে, অতিরিক্ত ইমেজ, আকার জন্য থিম"
+
+#: framework-customizations/theme/options/customizer/options-general.php:145
+msgid "Slug / title"
+msgstr "স্লাগ্ / শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-general.php:146
+msgid "Do not give space with word"
+msgstr "না দিতে স্পেস দিয়ে শব্দ"
+
+#: framework-customizations/theme/options/customizer/options-general.php:157
+msgid "Width"
+msgstr "প্রস্থ"
+
+#: framework-customizations/theme/options/customizer/options-general.php:168
+msgid "Height"
+msgstr "উচ্চতা"
+
+#: framework-customizations/theme/options/customizer/options-general.php:177
+msgid "Preloader"
+msgstr "Preloader"
+
+#: framework-customizations/theme/options/customizer/options-general.php:178
+msgid "Use preloader?"
+msgstr "ব্যবহার preloader?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:193
+msgid "Debug"
+msgstr "ডিবাগ"
+
+#: framework-customizations/theme/options/customizer/options-general.php:194
+msgid "Use demo Debug?"
+msgstr "ব্যবহার ডেমো ডিবাগ?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:208
+msgid "Debug Post ID"
+msgstr "ডিবাগ পোস্ট আইডি"
+
+#: framework-customizations/theme/options/customizer/options-general.php:209
+msgid "Post id for developemnt purpose."
+msgstr "বিকাশের উদ্দেশ্যে পোস্ট আইডি।"
+
+#: framework-customizations/theme/options/customizer/options-general.php:217
+msgid "Social links"
+msgstr "সামাজিক লিংক"
+
+#: framework-customizations/theme/options/customizer/options-general.php:218
+#: framework-customizations/theme/options/customizer/options-general.php:267
+msgid ""
+"Add social links and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+msgstr ""
+"সামাজিক লিঙ্ক যোগ এবং এটি এর আইকন বর্গ নর্দন. এই সব fontaweseome-5 আইকন."
+
+#: framework-customizations/theme/options/customizer/options-general.php:227
+msgid "Count"
+msgstr "গণনা"
+
+#: framework-customizations/theme/options/customizer/options-general.php:231
+msgid "Tag"
+msgstr "ট্যাগ"
+
+#: framework-customizations/theme/options/customizer/options-general.php:235
+#: framework-customizations/theme/options/customizer/options-general.php:278
+#: framework-customizations/theme/options/customizer/options-general.php:310
+msgid "Social icon"
+msgstr "সামাজিক আইকন"
+
+#: framework-customizations/theme/options/customizer/options-general.php:239
+#: framework-customizations/theme/options/customizer/options-general.php:282
+msgid "Social link"
+msgstr "সামাজিক লিংক"
+
+#: framework-customizations/theme/options/customizer/options-general.php:248
+msgid "Offcanvas social Icon Type ?"
+msgstr "Offcanvas সামাজিক আইকন টাইপ ?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:249
+msgid "Use in Offcanvas Menu?"
+msgstr "ব্যবহারের মেনু Offcanvas?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:266
+msgid "Editor Social links"
+msgstr "সম্পাদক সামাজিক লিংক"
+
+#: framework-customizations/theme/options/customizer/options-general.php:294
+msgid ""
+"Add social share and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+msgstr "যোগ সামাজিক ভাগ এবং এটি এর আইকন বর্গ নর্দন. এই সব fontaweseome-5 আইকন."
+
+#: framework-customizations/theme/options/customizer/options-general.php:319
+msgid "Facebook Api settings"
+msgstr "ফেসবুক এপিআই সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-general.php:320
+msgid "Facebook Api Settings"
+msgstr "ফেসবুক এপিআই সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-general.php:327
+msgid "App id"
+msgstr "অ্যাপ আইডি"
+
+#: framework-customizations/theme/options/customizer/options-general.php:329
+#: framework-customizations/theme/options/customizer/options-general.php:338
+msgid ""
+"To get id open app account in <a href=\"https://developers.facebook."
+"com/apps/\">Facebook</a> ."
+msgstr "অ্যাপ আইডি কী পেতে ফেসবুকে অ্যাপ অ্যাকাউন্ট খুলুন"
+
+#: framework-customizations/theme/options/customizer/options-general.php:331
+#: framework-customizations/theme/options/customizer/options-general.php:340
+msgid ""
+"To get app id key open app account in <a href=\"https://developers.facebook."
+"com/apps/\">Facebook</a> ."
+msgstr ""
+"\n"
+"অ্যাপ আইডি কী পেতে ফেসবুকে অ্যাপ অ্যাকাউন্ট খুলুন"
+
+#: framework-customizations/theme/options/customizer/options-general.php:336
+msgid "Secret code"
+msgstr "গোপন কোড"
+
+#: framework-customizations/theme/options/customizer/options-header.php:8
+msgid "Header settings"
+msgstr "শিরোলেখ সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-header.php:13
+#: framework-customizations/theme/options/posts/page.php:43
+msgid "Header style"
+msgstr "শিরোলেখ স্টাইল"
+
+#: framework-customizations/theme/options/customizer/options-header.php:14
+msgid "This is the site's main header style."
+msgstr "এই সাইট এর প্রধান হেডার শৈলী."
+
+#: framework-customizations/theme/options/customizer/options-header.php:43
+msgid "Mailchimp active"
+msgstr "মেইলচিম্প সক্রিয়"
+
+#: framework-customizations/theme/options/customizer/options-header.php:59
+msgid "Show topbar"
+msgstr "শো topbar"
+
+#: framework-customizations/theme/options/customizer/options-header.php:75
+msgid "Topbar Background"
+msgstr "টপবার ব্যাকগ্রাউন্ড"
+
+#: framework-customizations/theme/options/customizer/options-header.php:99
+msgid "Show button"
+msgstr "প্রদর্শন বাটন"
+
+#: framework-customizations/theme/options/customizer/options-header.php:120
+msgid "Button Label"
+msgstr "বাটন লেবেল"
+
+#: framework-customizations/theme/options/customizer/options-header.php:126
+msgid "Button Link"
+msgstr "বাটন লিঙ্ক"
+
+#: framework-customizations/theme/options/customizer/options-header.php:136
+msgid "Show Search"
+msgstr "দেখান অনুসন্ধান"
+
+#: framework-customizations/theme/options/customizer/options-header.php:150
+msgid "Show user account"
+msgstr "শো ব্যবহারকারীর অ্যাকাউন্ট"
+
+#: framework-customizations/theme/options/customizer/options-header.php:170
+msgid "Login link"
+msgstr "লগইন লিঙ্ক"
+
+#: framework-customizations/theme/options/customizer/options-header.php:180
+msgid "Show multi language"
+msgstr "মাল্টি ভাষা প্রদর্শন"
+
+#: framework-customizations/theme/options/customizer/options-header.php:195
+msgid "Language list"
+msgstr "ভাষা তালিকা"
+
+#: framework-customizations/theme/options/customizer/options-header.php:200
+msgid "Add"
+msgstr "যোগ"
+
+#: framework-customizations/theme/options/customizer/options-header.php:204
+msgid "Lang"
+msgstr "ল্যাঙ"
+
+#: framework-customizations/theme/options/customizer/options-header.php:210
+msgid "Url"
+msgstr "Url টি"
+
+#: framework-customizations/theme/options/customizer/options-header.php:223
+msgid "Show Weather"
+msgstr "শো, আবহাওয়া"
+
+#: framework-customizations/theme/options/customizer/options-header.php:241
+#: framework-customizations/theme/options/customizer/options-header.php:243
+msgid "Weather Forcast Settings"
+msgstr "আবহাওয়া Forcast সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-header.php:244
+msgid "Weather"
+msgstr "আবহাওয়া"
+
+#: framework-customizations/theme/options/customizer/options-header.php:251
+msgid "Data Source"
+msgstr "তথ্য উৎস"
+
+#: framework-customizations/theme/options/customizer/options-header.php:255
+#: framework-customizations/theme/options/customizer/options-header.php:265
+msgid "City name"
+msgstr "শহরের নাম"
+
+#: framework-customizations/theme/options/customizer/options-header.php:261
+msgid "Cordinates"
+msgstr "Cordinates"
+
+#: framework-customizations/theme/options/customizer/options-header.php:267
+msgid "london"
+msgstr "লন্ডন"
+
+#: framework-customizations/theme/options/customizer/options-header.php:274
+msgid "Map Latitude "
+msgstr "মানচিত্রে অক্ষাংশ "
+
+#: framework-customizations/theme/options/customizer/options-header.php:279
+msgid "Map Longitude "
+msgstr "মানচিত্র দ্রাঘিমাংশ "
+
+#: framework-customizations/theme/options/customizer/options-header.php:284
+msgid "Cache enable"
+msgstr "ক্যাশে সক্রিয়"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:8
+msgid "News Ticker settings"
+msgstr "সংবাদ টিকার সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:13
+msgid "Newsticker"
+msgstr "নিউজটিকার"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:14
+msgid "Would you like to enable newsticker on topbar?"
+msgstr "আপনি কি টপবারে নিউজটিকার সক্ষম করতে চান?"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:28
+msgid "Tranding box bg color"
+msgstr "ট্রেন্ডিং বক্স বিজি রঙ"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:29
+#: framework-customizations/theme/options/customizer/options-newsticker.php:37
+msgid "Tranding box bg color."
+msgstr "ট্রেন্ডিং বক্স বিজি রঙ।"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:36
+msgid "Tranding Title bg color"
+msgstr "শিরোনাম, Tranding বিজি রঙ"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:45
+msgid "News Ticker title"
+msgstr "সংবাদ টিকার, শিরোনাম"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:46
+msgid "News Ticker Title."
+msgstr "সংবাদ টিকার শিরোনাম."
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:54
+#: framework-customizations/theme/options/posts/page.php:93
+msgid "Newsticker Navigation"
+msgstr "নিউজটিকার গৌণ"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:55
+#: framework-customizations/theme/options/posts/page.php:94
+msgid "Would you like to enable newsticker navigation?"
+msgstr "আপনি কি নিউজটিকার নেভিগেশন সক্ষম করতে চান?"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:72
+msgid "Post select by"
+msgstr "পোস্ট নির্বাচন করে"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:73
+msgid "Newsticker post source "
+msgstr "নিউজটিকার পোস্ট উৎস "
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:77
+msgid "Latest Post"
+msgstr "সর্বশেষ পোস্ট"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:78
+msgid "Trending post"
+msgstr "গতিবিধি পোস্ট"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:79
+msgid "Most Commented"
+msgstr "সর্বাধিক মন্তব্য"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:80
+msgid "Most Views / Popular"
+msgstr "সবচেয়ে দেখেছে / জনপ্রিয়"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:81
+msgid "Category"
+msgstr "বিভাগ"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:82
+#: framework-customizations/theme/options/customizer/options-newsticker.php:107
+msgid "Selected post"
+msgstr "নির্বাচিত পোস্ট"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:97
+msgid "Newsticker post category"
+msgstr "সংবাদ টিকার, পোস্ট বিভাগ"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:128
+msgid "Number of post"
+msgstr "পোস্টের সংখ্যা"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:129
+msgid "Number post to load "
+msgstr "নম্বর পোস্ট লোড করতে "
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:144
+msgid "Post skip"
+msgstr "পোস্ট কর"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:145
+msgid "Do not show few posts"
+msgstr "দেখাতে না কিছু পোস্ট"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:153
+msgid "Post order"
+msgstr "পোস্ট করার জন্য"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:156
+msgid "Ascending"
+msgstr "আরোহী"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:157
+msgid "Descending"
+msgstr "সাজানো"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:167
+msgid "Post orderBy"
+msgstr "পোস্ট orderBy"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:171
+msgid "Date"
+msgstr "আপলোড"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:172
+msgid "Publish Date"
+msgstr "প্রকাশ তারিখ"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:189
+msgid "Title limit"
+msgstr "শিরোনাম সীমা"
+
+#: framework-customizations/theme/options/customizer/options-style.php:7
+msgid "Style settings"
+msgstr "স্টাইল সেটিংস"
+
+#: framework-customizations/theme/options/customizer/options-style.php:11
+#: framework-customizations/theme/options/posts/page.php:16
+msgid "Container width"
+msgstr "ধারক প্রস্থ"
+
+#: framework-customizations/theme/options/customizer/options-style.php:12
+msgid "Site's Main Container Width in Pixel."
+msgstr "সাইট এর প্রধান ধারক প্রস্থ পিক্সেল."
+
+#: framework-customizations/theme/options/customizer/options-style.php:16
+#: framework-customizations/theme/options/posts/page.php:22
+msgid "Body background"
+msgstr "শরীরের ব্যাকগ্রাউন্ড"
+
+#: framework-customizations/theme/options/customizer/options-style.php:17
+#: framework-customizations/theme/options/posts/page.php:23
+msgid "Site's main background color."
+msgstr "সাইট এর প্রধান পটভূমির রঙ."
+
+#: framework-customizations/theme/options/customizer/options-style.php:23
+msgid "Blog background"
+msgstr "ব্লগ ব্যাকগ্রাউন্ড"
+
+#: framework-customizations/theme/options/customizer/options-style.php:24
+msgid "Site's main blog,catyegory background color."
+msgstr "সাইট এর প্রধান ব্লগ,catyegory পটভূমির রঙ."
+
+#: framework-customizations/theme/options/customizer/options-style.php:30
+msgid "Primary color"
+msgstr "প্রাথমিক রঙ"
+
+#: framework-customizations/theme/options/customizer/options-style.php:31
+msgid "Site's main color."
+msgstr "সাইট এর প্রধান রঙ."
+
+#: framework-customizations/theme/options/customizer/options-style.php:36
+msgid "Meta color"
+msgstr "মেটা রঙ"
+
+#: framework-customizations/theme/options/customizer/options-style.php:37
+msgid "Site's blog meta color."
+msgstr "সাইট এর ব্লগ মেটা রঙ."
+
+#: framework-customizations/theme/options/customizer/options-style.php:42
+msgid "Meta icon color"
+msgstr "মেটা আইকন রঙ"
+
+#: framework-customizations/theme/options/customizer/options-style.php:43
+msgid "Site's blog meta icon color."
+msgstr "সাইট এর ব্লগ মেটা আইকন রঙ."
+
+#: framework-customizations/theme/options/customizer/options-style.php:48
+msgid "Title color"
+msgstr "শিরোনাম রঙ"
+
+#: framework-customizations/theme/options/customizer/options-style.php:49
+msgid "Blog title color."
+msgstr "ব্লগ শিরোনাম রঙ."
+
+#: framework-customizations/theme/options/customizer/options-style.php:55
+msgid "Body Font"
+msgstr "শরীরের ফন্ট"
+
+#: framework-customizations/theme/options/customizer/options-style.php:56
+msgid "Choose the typography for the title"
+msgstr "নির্বাচন করুন শিরোনাম জন্য ছাপাখানার বিদ্যা"
+
+#: framework-customizations/theme/options/customizer/options-style.php:87
+msgid "Heading H1 and H2 Fonts"
+msgstr "শিরোনাম, H1 এবং H2 ফন্ট"
+
+#: framework-customizations/theme/options/customizer/options-style.php:88
+#: framework-customizations/theme/options/customizer/options-style.php:107
+#: framework-customizations/theme/options/customizer/options-style.php:126
+msgid "This is for heading google fonts"
+msgstr "এই শিরোনাম জন্য গুগল ফন্ট"
+
+#: framework-customizations/theme/options/customizer/options-style.php:106
+msgid "Heading H3 Fonts"
+msgstr "শিরোনাম H3 ফন্ট"
+
+#: framework-customizations/theme/options/customizer/options-style.php:125
+msgid "Heading H4 Fonts"
+msgstr "শিরোনাম H4 ফন্ট"
+
+#: framework-customizations/theme/options/posts/page.php:9
+msgid "Page settings"
+msgstr "পৃষ্ঠা সেটিংস"
+
+#: framework-customizations/theme/options/posts/page.php:17
+msgid "Site's Page Container Width in Pixel."
+msgstr "সাইট এর পৃষ্ঠা ধারক প্রস্থ পিক্সেল."
+
+#: framework-customizations/theme/options/posts/page.php:29
+msgid "Override default header layout?"
+msgstr "অগ্রাহ্য করা ডিফল্ট শিরোলেখ বিন্যাস?"
+
+#: framework-customizations/theme/options/posts/page.php:30
+msgid "Override customizer header layout"
+msgstr "কাস্টমাইজার হেডার লেআউট ওভাররাইড করুন"
+
+#: framework-customizations/theme/options/posts/page.php:44
+msgid "This is the site's single page header style."
+msgstr "এই সাইট এর একক পৃষ্ঠা শিরোলেখ শৈলী."
+
+#: framework-customizations/theme/options/posts/page.php:76
+msgid "Header Ad"
+msgstr "হেডার বিজ্ঞাপন"
+
+#: framework-customizations/theme/options/posts/page.php:77
+msgid "Would you like to enable header Ad"
+msgstr "আপনি শিরোনাম বিজ্ঞাপন সক্রিয় করতে চান"
+
+#: framework-customizations/theme/options/posts/post.php:6
+msgid "Featured video"
+msgstr "বৈশিষ্ট্যযুক্ত ভিডিও"
+
+#: framework-customizations/theme/options/posts/post.php:14
+msgid "Video url"
+msgstr "ভিডিও url টি"
+
+#: framework-customizations/theme/options/posts/post.php:15
+msgid ""
+"Paste a video code from Youtube, Vimeo it will be embedded in the post and "
+"the thumb used as the featured image of this post. \n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+msgstr ""
+"ইউটিউব থেকে একটি ভিডিও কোড পেস্ট করুন, ভিমিও এটি পোস্টে এমবেড করা হবে এবং এই "
+"পোস্টের বৈশিষ্ট্যযুক্ত চিত্র হিসাবে ব্যবহৃত থাম্বটি।\n"
+"\"বৈশিষ্ট্যযুক্ত ভিডিও\" ব্যবহার করার জন্য আপনাকে পোস্ট বিন্যাস হিসাবে "
+"\"ভিডিও বিন্যাস\" চয়ন করতে হবে।"
+
+#: framework-customizations/theme/options/posts/post.php:23
+msgid "Featured audio"
+msgstr "বৈশিষ্ট্যযুক্ত অডিও"
+
+#: framework-customizations/theme/options/posts/post.php:30
+msgid "Audio URL"
+msgstr "অডিও URL টি"
+
+#: framework-customizations/theme/options/posts/post.php:31
+msgid "Paste a soundcloud link here."
+msgstr "এখানে একটি সাউন্ডক্লাউড লিঙ্ক পেস্ট করুন।"
+
+#: framework-customizations/theme/options/posts/post.php:37
+msgid "Post layout"
+msgstr "পোস্ট বিন্যাস"
+
+#: framework-customizations/theme/options/posts/post.php:44
+#: framework-customizations/theme/options/taxonomies/category.php:9
+msgid "Override default layouts?"
+msgstr "অগ্রাহ্য করা ডিফল্ট বিন্যাস?"
+
+#: framework-customizations/theme/options/posts/post.php:45
+#: framework-customizations/theme/options/taxonomies/category.php:10
+msgid "You can change the default options from customizer's \"Blog settings\"."
+msgstr ""
+"আপনি কাস্টমাইজারের \"ব্লগ সেটিংস\" থেকে ডিফল্ট বিকল্পগুলি পরিবর্তন করতে "
+"পারেন৷"
+
+#: framework-customizations/theme/options/posts/post.php:76
+msgid "Override blog sidebar layout"
+msgstr "অগ্রাহ্য ব্লগ পার্শ্বদন্ডে বিন্যাস"
+
+#: framework-customizations/theme/options/taxonomies/category.php:23
+msgid "This is the site's main Category style."
+msgstr "এই সাইট এর প্রধান বিষয়শ্রেণী শৈলী."
+
+#: search.php:26
+msgid "Search Results for:"
+msgstr "জন্য অনুসন্ধান ফলাফল:"
+
+#: template-parts/blog/contents/content-page.php:24
+#: template-parts/blog/contents/content-single.php:51
+#: template-parts/blog/contents/content.php:57
+msgid "Continue reading &rarr;"
+msgstr "পড়া চালিয়ে যান →"
+
+#: template-parts/blog/contents/content-single.php:66
+#: template-parts/blog/contents/content.php:72
+msgid "Pages:"
+msgstr "পেজ:"
+
+#: template-parts/blog/paginations/loadmore.php:12
+msgid "Load More Articles"
+msgstr "লোড আরও নিবন্ধ"
+
+#: template-parts/blog/post-parts/part-author.php:26
+msgid "Post"
+msgstr "পোস্ট"
+
+#: template-parts/blog/post-parts/part-author.php:37
+msgid "Contact With Me"
+msgstr "আমার সাথে যোগাযোগ করুন"
+
+#: template-parts/blog/post-parts/part-mailchimp.php:27
+msgid "Mail Icon"
+msgstr "মেইল আইকন"
+
+#: template-parts/blog/post-parts/part-search.php:17
+#: template-parts/topbar/content-style2.php:53
+msgid "Search"
+msgstr "অনুসন্ধান"
+
+#: template-parts/blog/post-parts/part-search.php:22
+msgid "Close"
+msgstr "বন্ধ"
+
+#: template-parts/footer/footer-default.php:3
+#: template-parts/footer/footer.php:3
+msgid "&copy; 2022, Binduz. All Rights Reserved. "
+msgstr "© 2022, Binduz. সব অধিকার সংরক্ষিত. "
+
+#: template-parts/topbar/content-style2.php:50
+msgid "Menu"
+msgstr "মেনু"
+
+#: template-parts/topbar/content-style2.php:63
+#: template-parts/topbar/content-style4.php:53
+msgid "°F"
+msgstr "°F"
+
+#: template-parts/topbar/content-style2.php:66
+#: template-parts/topbar/content-style4.php:56
+msgid "°C"
+msgstr "°সি"
+
+#: template-parts/topbar/content-style2.php:70
+msgid "Login"
+msgstr "লগইন"
+
+#: template-parts/topbar/content.php:7
+msgid "Subscribe"
+msgstr "সাবস্ক্রাইব"
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "%s পরিমাণ"
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr "পরিমাণ"
+
+#: woocommerce/woo-setup.php:36
+msgid "Shop Sidebar"
+msgstr "দোকান পার্শ্বদন্ডে"
+
+#: woocommerce/woo-setup.php:38
+msgid ""
+"Add widgets here. This widgets will be appear in shop page and when the "
+"wocommerce plugin are installed."
+msgstr ""
+"উইজেট যোগ করুন এখানে. এই উইজেট প্রদর্শিত হবে দোকান পৃষ্ঠায় এবং যখন, "
+"wocommerce প্লাগইন ইনস্টল করা হয়."

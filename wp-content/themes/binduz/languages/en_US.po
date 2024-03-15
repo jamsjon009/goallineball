@@ -1,0 +1,2409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: binduz\n"
+"POT-Creation-Date: 2022-11-24 16:56+0600\n"
+"PO-Revision-Date: 2022-12-19 11:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html__e;esc_attr__;esc_attr__e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: 404.php:14
+msgid "Page not found"
+msgstr "Page not found"
+
+#: 404.php:22
+msgid "Go Back Home"
+msgstr "Go Back Home"
+
+#: app/Core/Binduz_Walker_Comment.php:54
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: app/Core/Binduz_Walker_Comment.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: app/Core/Binduz_Walker_Comment.php:92
+#: framework-customizations/theme/options/customizer/options-blog.php:314
+msgid "Edit"
+msgstr "Edit"
+
+#: app/Core/Footer.php:27
+msgid "Footer One"
+msgstr "Footer One"
+
+#: app/Core/Footer.php:29
+msgid "Footer one Widget."
+msgstr "Footer one Widget."
+
+#: app/Core/Footer.php:41
+msgid "Footer Two"
+msgstr "Footer Two"
+
+#: app/Core/Footer.php:43
+msgid "Footer  widget."
+msgstr "Footer  widget."
+
+#: app/Core/Footer.php:55
+msgid "Footer Three"
+msgstr "Footer Three"
+
+#: app/Core/Footer.php:57 app/Core/Footer.php:71
+msgid "Footer widget."
+msgstr "Footer widget."
+
+#: app/Core/Footer.php:69
+msgid "Footer Four"
+msgstr "Footer Four"
+
+#: app/Core/Hook/Blog.php:120
+msgid "Search here"
+msgstr "Search here"
+
+#: app/Core/Hook/Demo.php:26
+msgid "Home V1"
+msgstr "Home V1"
+
+#: app/Core/Hook/Demo.php:31
+msgid "Home v2"
+msgstr "Home v2"
+
+#: app/Core/Hook/Demo.php:36
+msgid "Home v3"
+msgstr "Home v3"
+
+#: app/Core/Hook/Demo.php:41
+msgid "Home v4"
+msgstr "Home v4"
+
+#: app/Core/Hook/Demo.php:46
+msgid "Home v5"
+msgstr "Home v5"
+
+#: app/Core/Hook/Demo.php:51
+msgid "Home v6"
+msgstr "Home v6"
+
+#: app/Core/Hook/Demo.php:57
+msgid "Home v7"
+msgstr "Home v7"
+
+#: app/Core/Hook/Demo.php:62
+msgid "Home v8"
+msgstr "Home v8"
+
+#: app/Core/Hook/Demo.php:67
+msgid "Home v9"
+msgstr "Home v9"
+
+#: app/Core/Hook/RequiredPlugins.php:29
+msgid "Elementor"
+msgstr "Elementor"
+
+#: app/Core/Hook/RequiredPlugins.php:34
+msgid "Contact form 7"
+msgstr "Contact form 7"
+
+#: app/Core/Hook/RequiredPlugins.php:39
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: app/Core/Hook/RequiredPlugins.php:44
+msgid "Unyson"
+msgstr "Unyson"
+
+#: app/Core/Hook/RequiredPlugins.php:49
+msgid "Classic editor"
+msgstr "Classic editor"
+
+#: app/Core/Hook/RequiredPlugins.php:56
+msgid "Classic Widgets Area"
+msgstr "Classic Widgets Area"
+
+#: app/Core/Hook/RequiredPlugins.php:62
+msgid "Element Ready"
+msgstr "Element Ready"
+
+#: app/Core/Hook/RequiredPlugins.php:68
+msgid "WC Shopping Cart"
+msgstr "WC Shopping Cart"
+
+#: app/Core/Hook/RequiredPlugins.php:74
+msgid "binduz Essentials"
+msgstr "binduz Essentials"
+
+#: app/Core/Sidebar.php:26
+msgid "Blog widget area"
+msgstr "Blog widget area"
+
+#: app/Core/Sidebar.php:28
+msgid "Appears on posts."
+msgstr "Appears on posts."
+
+#: app/Core/Tags.php:48 app/Core/Tags.php:53
+msgid ", "
+msgstr ", "
+
+#: app/Core/Tags.php:50
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#: app/Core/Tags.php:55
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: app/Core/Tags.php:61
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: app/Core/Tags.php:67
+#, php-format
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: app/Core/Tranding_Post.php:77
+#: framework-customizations/theme/options/customizer/options-newsticker.php:47
+msgid "Trending"
+msgstr "Trending"
+
+#: app/Plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: app/Plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: app/Plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: app/Plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: app/Plugins/class-tgm-plugin-activation.php:386
+#: app/Plugins/class-tgm-plugin-activation.php:823
+#: app/Plugins/class-tgm-plugin-activation.php:2529
+#: app/Plugins/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: app/Plugins/class-tgm-plugin-activation.php:387
+#: app/Plugins/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: app/Plugins/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: app/Plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+
+#: app/Plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: app/Plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+
+#: app/Plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: app/Plugins/class-tgm-plugin-activation.php:518
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: app/Plugins/class-tgm-plugin-activation.php:519
+msgid "Update Required"
+msgstr "Update Required"
+
+#: app/Plugins/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+
+#: app/Plugins/class-tgm-plugin-activation.php:930
+#: app/Plugins/class-tgm-plugin-activation.php:933
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+
+#: app/Plugins/class-tgm-plugin-activation.php:933
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+
+#: app/Plugins/class-tgm-plugin-activation.php:1978
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr "Required"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr "Recommended"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr "External Source"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr "Active"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr "Available version:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr "Plugin"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr "Source"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2545
+#: framework-customizations/theme/options/customizer/options-general.php:92
+msgid "Type"
+msgstr "Type"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr "Version"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr "Status"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2599
+#, php-format
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2604
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2610
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr "Install"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr "Update"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr "Activate"
+
+#: app/Plugins/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: app/Plugins/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3494
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3497
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: app/Plugins/class-tgm-plugin-activation.php:3499
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3503
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr "Show Details"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3505
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3508
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: app/Plugins/class-tgm-plugin-activation.php:3511
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: app/Plugins/class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: app/Setup/Enqueue.php:64
+msgid "Loading More Posts..."
+msgstr "Loading More Posts..."
+
+#: app/Setup/Menus.php:24
+msgid "Primary"
+msgstr "Primary"
+
+#: app/Setup/Menus.php:28
+msgid "Footer nav"
+msgstr "Footer nav"
+
+#: app/Utility/Helpers.php:254 app/Utility/Helpers.php:265
+#: app/Utility/Helpers.php:303 app/Utility/Helpers.php:314
+#: template-parts/blog/category/style5/format/standard-audio.php:18
+#: template-parts/blog/category/style5/format/standard-image.php:32
+#: template-parts/blog/category/style5/format/standard-video.php:18
+#: template-parts/blog/category/style5/format/standard.php:32
+#: template-parts/blog/category/style6/format/standard-audio.php:13
+#: template-parts/blog/category/style6/format/standard-image.php:26
+#: template-parts/blog/category/style6/format/standard-video.php:26
+#: template-parts/blog/category/style6/format/standard.php:26
+msgid "By"
+msgstr "By"
+
+#: app/Utility/Helpers.php:504
+msgid " minute read"
+msgstr " minute read"
+
+#: app/Utility/Helpers.php:506
+msgid " minutes read"
+msgstr " minutes read"
+
+#: app/Utility/Helpers.php:556
+msgid "More pages: "
+msgstr "More pages: "
+
+#: app/Utility/Helpers.php:560
+msgid "Next "
+msgstr "Next "
+
+#: app/Utility/Helpers.php:561
+msgid "Previous"
+msgstr "Previous"
+
+#: app/Utility/Helpers.php:624
+msgid "says:"
+msgstr "says:"
+
+#: app/Utility/Helpers.php:630
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: app/Utility/Helpers.php:632
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: app/Utility/Helpers.php:654
+msgid "read more"
+msgstr "read more"
+
+#: app/Utility/Helpers.php:693
+msgid "Prev Post"
+msgstr "Prev Post"
+
+#: app/Utility/Helpers.php:704
+msgid "Next Post"
+msgstr "Next Post"
+
+#: app/Utility/Helpers.php:712
+msgid "post-bars"
+msgstr "post-bars"
+
+#: app/Utility/Helpers.php:783
+#, php-format
+msgid "%s ago"
+msgstr "%s ago"
+
+#: app/Utility/Helpers.php:854
+msgid "None"
+msgstr "None"
+
+#: app/Utility/Helpers.php:865
+msgid "Full"
+msgstr "Full"
+
+#: app/Utility/Helpers.php:1046
+msgid "0"
+msgstr "0"
+
+#: app/Utility/Helpers.php:1050
+msgid "Share"
+msgstr "Share"
+
+#: app/Utility/Helpers.php:1052
+msgid "tweet"
+msgstr "tweet"
+
+#: app/Utility/Helpers.php:1054
+msgid "share"
+msgstr "share"
+
+#: app/Utility/Helpers.php:1182
+msgid "Send"
+msgstr "Send"
+
+#: app/Utility/Helpers.php:1183
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: app/Utility/Helpers.php:1184
+msgid "Reply"
+msgstr "Reply"
+
+#: app/Utility/Helpers.php:1185
+msgid "Name"
+msgstr "Name"
+
+#: app/Utility/Helpers.php:1186
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: app/Utility/Helpers.php:1187
+msgid "Comment"
+msgstr "Comment"
+
+#: app/Utility/Helpers.php:1188
+msgid "Website"
+msgstr "Website"
+
+#: app/Utility/Helpers.php:1189
+msgid " By commenting you accept the"
+msgstr " By commenting you accept the"
+
+#: app/Utility/Helpers.php:1190
+msgid " Privacy Policy"
+msgstr " Privacy Policy"
+
+#: app/Utility/Helpers.php:1193
+msgid "Cancel Reply"
+msgstr "Cancel Reply"
+
+#: app/Utility/Helpers.php:1194 app/Utility/Helpers.php:1373
+msgid "Submit"
+msgstr "Submit"
+
+#: app/Utility/Helpers.php:1303
+#, php-format
+msgid ""
+"<a href=\"%1$s\" aria-label=\"%2$s\">Logged in as %3$s</a>. <a href=\"%4$s\">"
+"Log out?</a>"
+msgstr ""
+
+#: app/Utility/Helpers.php:1306
+#, php-format
+msgid "Logged in as %s. Edit your profile."
+msgstr "Logged in as %s. Edit your profile."
+
+#: app/Utility/Helpers.php:1371
+msgid "To view this protected post, enter the password below:"
+msgstr "To view this protected post, enter the password below:"
+
+#: app/Utility/Helpers.php:1372
+msgid "Enter Password"
+msgstr "Enter Password"
+
+#: app/Utility/global.php:218
+msgid "Readmore"
+msgstr "Readmore"
+
+#: app/Utility/global.php:399
+#: framework-customizations/theme/options/customizer/options-general.php:321
+msgid "Facebook"
+msgstr "Facebook"
+
+#: app/Utility/global.php:400
+msgid "twitter"
+msgstr "twitter"
+
+#: app/Utility/global.php:401
+msgid "linkedin"
+msgstr "linkedin"
+
+#: app/Utility/global.php:402
+msgid "pinterest "
+msgstr "pinterest "
+
+#: app/Utility/global.php:403
+msgid "digg"
+msgstr "digg"
+
+#: app/Utility/global.php:404
+msgid "tumblr"
+msgstr "tumblr"
+
+#: app/Utility/global.php:405 app/Utility/global.php:413
+msgid "blogger"
+msgstr "blogger"
+
+#: app/Utility/global.php:406
+msgid "reddit"
+msgstr "reddit"
+
+#: app/Utility/global.php:407
+msgid "delicious"
+msgstr "delicious"
+
+#: app/Utility/global.php:408 app/Utility/global.php:415
+msgid "flipboard"
+msgstr "flipboard"
+
+#: app/Utility/global.php:409
+msgid "vkontakte"
+msgstr "vkontakte"
+
+#: app/Utility/global.php:410
+msgid "odnoklassniki"
+msgstr "odnoklassniki"
+
+#: app/Utility/global.php:411
+msgid "moimir"
+msgstr "moimir"
+
+#: app/Utility/global.php:412
+msgid "livejournal"
+msgstr "livejournal"
+
+#: app/Utility/global.php:414
+msgid "evernote"
+msgstr "evernote"
+
+#: app/Utility/global.php:416
+msgid "mix"
+msgstr "mix"
+
+#: app/Utility/global.php:417
+msgid "meneame "
+msgstr "meneame "
+
+#: app/Utility/global.php:418
+msgid "pocket "
+msgstr "pocket "
+
+#: app/Utility/global.php:419
+msgid "surfingbird "
+msgstr "surfingbird "
+
+#: app/Utility/global.php:420
+msgid "liveinternet "
+msgstr "liveinternet "
+
+#: app/Utility/global.php:421
+msgid "buffer "
+msgstr "buffer "
+
+#: app/Utility/global.php:422
+msgid "instapaper "
+msgstr "instapaper "
+
+#: app/Utility/global.php:423
+msgid "xing "
+msgstr "xing "
+
+#: app/Utility/global.php:424
+msgid "wordpres "
+msgstr "wordpres "
+
+#: app/Utility/global.php:425
+msgid "baidu "
+msgstr "baidu "
+
+#: app/Utility/global.php:426
+msgid "renren "
+msgstr "renren "
+
+#: app/Utility/global.php:427
+msgid "weibo "
+msgstr "weibo "
+
+#: app/Utility/global.php:504
+msgid "Old Writter"
+msgstr "Old Writter"
+
+#: app/Utility/global.php:504
+msgid "New Writter"
+msgstr "New Writter"
+
+#: app/Utility/template-tags.php:57
+msgid "Home"
+msgstr "Home"
+
+#: app/Utility/template-tags.php:129 app/Utility/template-tags.php:135
+#: app/Utility/template-tags.php:141
+msgid "Blogs for"
+msgstr "Blogs for"
+
+#: app/Utility/template-tags.php:147
+msgid "Author Blogs"
+msgstr "Author Blogs"
+
+#: app/Utility/template-tags.php:152
+msgid "Blogs"
+msgstr "Blogs"
+
+#: app/Utility/template-tags.php:157
+msgid "Search Result"
+msgstr "Search Result"
+
+#: app/Utility/template-tags.php:162
+msgid "404 Not Found"
+msgstr "404 Not Found"
+
+#: comments.php:24
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "One thought on “%1$s”"
+
+#: framework-customizations/option-types/new-icon/new-icon2.php:142
+msgid "Unknown Set"
+msgstr "Unknown Set"
+
+#: framework-customizations/option-types/new-icon/new-icon2.php:156
+msgid "Brand"
+msgstr "Brand"
+
+#: framework-customizations/option-types/new-icon/new-icon2.php:157
+msgid "web-application"
+msgstr "web-application"
+
+#: framework-customizations/option-types/new-icon/view.php:39
+msgid "All Categories"
+msgstr "All Categories"
+
+#: framework-customizations/theme/manifest.php:5
+msgid "binduz"
+msgstr "binduz"
+
+#: framework-customizations/theme/manifest.php:7
+msgid "Binduz is Newspaper and Magazine WordPress Theme"
+msgstr "Binduz is Newspaper and Magazine WordPress Theme"
+
+#: framework-customizations/theme/options/customizer.php:10
+msgid "Binduz settings"
+msgstr "Binduz settings"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:7
+msgid "Advertisement "
+msgstr "Advertisement "
+
+#: framework-customizations/theme/options/customizer/options-ads.php:13
+#: framework-customizations/theme/options/customizer/options-ads.php:14
+msgid "Header banner"
+msgstr "Header banner"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:19
+#: framework-customizations/theme/options/customizer/options-ads.php:71
+#: framework-customizations/theme/options/customizer/options-ads.php:129
+msgid "Enable Ad"
+msgstr "Enable Ad"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:20
+#: framework-customizations/theme/options/customizer/options-ads.php:72
+#: framework-customizations/theme/options/customizer/options-ads.php:130
+msgid "Do you want to enable Ad?"
+msgstr "Do you want to enable Ad?"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:24
+#: framework-customizations/theme/options/customizer/options-ads.php:38
+#: framework-customizations/theme/options/customizer/options-ads.php:76
+#: framework-customizations/theme/options/customizer/options-ads.php:134
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:18
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:33
+#: framework-customizations/theme/options/customizer/options-blog-single.php:54
+#: framework-customizations/theme/options/customizer/options-blog-single.php:69
+#: framework-customizations/theme/options/customizer/options-blog-single.php:103
+#: framework-customizations/theme/options/customizer/options-blog-single.php:136
+#: framework-customizations/theme/options/customizer/options-blog-single.php:151
+#: framework-customizations/theme/options/customizer/options-blog-single.php:166
+#: framework-customizations/theme/options/customizer/options-blog-single.php:180
+#: framework-customizations/theme/options/customizer/options-blog-single.php:195
+#: framework-customizations/theme/options/customizer/options-blog-single.php:210
+#: framework-customizations/theme/options/customizer/options-blog-single.php:225
+#: framework-customizations/theme/options/customizer/options-blog-single.php:240
+#: framework-customizations/theme/options/customizer/options-blog-single.php:259
+#: framework-customizations/theme/options/customizer/options-blog-single.php:273
+#: framework-customizations/theme/options/customizer/options-blog.php:101
+#: framework-customizations/theme/options/customizer/options-blog.php:115
+#: framework-customizations/theme/options/customizer/options-blog.php:129
+#: framework-customizations/theme/options/customizer/options-blog.php:143
+#: framework-customizations/theme/options/customizer/options-blog.php:157
+#: framework-customizations/theme/options/customizer/options-blog.php:172
+#: framework-customizations/theme/options/customizer/options-blog.php:187
+#: framework-customizations/theme/options/customizer/options-blog.php:202
+#: framework-customizations/theme/options/customizer/options-blog.php:224
+#: framework-customizations/theme/options/customizer/options-blog.php:239
+#: framework-customizations/theme/options/customizer/options-blog.php:259
+#: framework-customizations/theme/options/customizer/options-blog.php:289
+#: framework-customizations/theme/options/customizer/options-blog.php:324
+#: framework-customizations/theme/options/customizer/options-blog.php:339
+#: framework-customizations/theme/options/customizer/options-blog.php:354
+#: framework-customizations/theme/options/customizer/options-footer.php:165
+#: framework-customizations/theme/options/customizer/options-general.php:24
+#: framework-customizations/theme/options/customizer/options-general.php:127
+#: framework-customizations/theme/options/customizer/options-general.php:182
+#: framework-customizations/theme/options/customizer/options-general.php:198
+#: framework-customizations/theme/options/customizer/options-general.php:253
+#: framework-customizations/theme/options/customizer/options-header.php:47
+#: framework-customizations/theme/options/customizer/options-header.php:63
+#: framework-customizations/theme/options/customizer/options-header.php:103
+#: framework-customizations/theme/options/customizer/options-header.php:140
+#: framework-customizations/theme/options/customizer/options-header.php:154
+#: framework-customizations/theme/options/customizer/options-header.php:184
+#: framework-customizations/theme/options/customizer/options-header.php:227
+#: framework-customizations/theme/options/customizer/options-header.php:288
+#: framework-customizations/theme/options/customizer/options-newsticker.php:18
+#: framework-customizations/theme/options/customizer/options-newsticker.php:59
+#: framework-customizations/theme/options/posts/page.php:34
+#: framework-customizations/theme/options/posts/page.php:81
+#: framework-customizations/theme/options/posts/page.php:98
+#: framework-customizations/theme/options/posts/post.php:48
+#: framework-customizations/theme/options/taxonomies/category.php:13
+#: framework-customizations/theme/options/taxonomies/category.php:97
+#: framework-customizations/theme/options/taxonomies/category.php:127
+msgid "Yes"
+msgstr "Yes"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:28
+#: framework-customizations/theme/options/customizer/options-ads.php:42
+#: framework-customizations/theme/options/customizer/options-ads.php:80
+#: framework-customizations/theme/options/customizer/options-ads.php:138
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:22
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:37
+#: framework-customizations/theme/options/customizer/options-blog-single.php:58
+#: framework-customizations/theme/options/customizer/options-blog-single.php:73
+#: framework-customizations/theme/options/customizer/options-blog-single.php:107
+#: framework-customizations/theme/options/customizer/options-blog-single.php:140
+#: framework-customizations/theme/options/customizer/options-blog-single.php:155
+#: framework-customizations/theme/options/customizer/options-blog-single.php:170
+#: framework-customizations/theme/options/customizer/options-blog-single.php:184
+#: framework-customizations/theme/options/customizer/options-blog-single.php:199
+#: framework-customizations/theme/options/customizer/options-blog-single.php:214
+#: framework-customizations/theme/options/customizer/options-blog-single.php:229
+#: framework-customizations/theme/options/customizer/options-blog-single.php:244
+#: framework-customizations/theme/options/customizer/options-blog-single.php:263
+#: framework-customizations/theme/options/customizer/options-blog-single.php:277
+#: framework-customizations/theme/options/customizer/options-blog.php:105
+#: framework-customizations/theme/options/customizer/options-blog.php:119
+#: framework-customizations/theme/options/customizer/options-blog.php:133
+#: framework-customizations/theme/options/customizer/options-blog.php:147
+#: framework-customizations/theme/options/customizer/options-blog.php:161
+#: framework-customizations/theme/options/customizer/options-blog.php:176
+#: framework-customizations/theme/options/customizer/options-blog.php:191
+#: framework-customizations/theme/options/customizer/options-blog.php:206
+#: framework-customizations/theme/options/customizer/options-blog.php:228
+#: framework-customizations/theme/options/customizer/options-blog.php:243
+#: framework-customizations/theme/options/customizer/options-blog.php:263
+#: framework-customizations/theme/options/customizer/options-blog.php:293
+#: framework-customizations/theme/options/customizer/options-blog.php:328
+#: framework-customizations/theme/options/customizer/options-blog.php:343
+#: framework-customizations/theme/options/customizer/options-blog.php:358
+#: framework-customizations/theme/options/customizer/options-footer.php:169
+#: framework-customizations/theme/options/customizer/options-general.php:29
+#: framework-customizations/theme/options/customizer/options-general.php:131
+#: framework-customizations/theme/options/customizer/options-general.php:186
+#: framework-customizations/theme/options/customizer/options-general.php:202
+#: framework-customizations/theme/options/customizer/options-general.php:257
+#: framework-customizations/theme/options/customizer/options-header.php:52
+#: framework-customizations/theme/options/customizer/options-header.php:68
+#: framework-customizations/theme/options/customizer/options-header.php:108
+#: framework-customizations/theme/options/customizer/options-header.php:145
+#: framework-customizations/theme/options/customizer/options-header.php:159
+#: framework-customizations/theme/options/customizer/options-header.php:189
+#: framework-customizations/theme/options/customizer/options-header.php:232
+#: framework-customizations/theme/options/customizer/options-header.php:293
+#: framework-customizations/theme/options/customizer/options-newsticker.php:22
+#: framework-customizations/theme/options/customizer/options-newsticker.php:63
+#: framework-customizations/theme/options/posts/page.php:38
+#: framework-customizations/theme/options/posts/page.php:85
+#: framework-customizations/theme/options/posts/page.php:102
+#: framework-customizations/theme/options/posts/post.php:52
+#: framework-customizations/theme/options/taxonomies/category.php:17
+#: framework-customizations/theme/options/taxonomies/category.php:101
+#: framework-customizations/theme/options/taxonomies/category.php:131
+msgid "No"
+msgstr "No"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:33
+msgid "Page Only"
+msgstr "Page Only"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:34
+msgid "Do you want to page specific?"
+msgstr "Do you want to page specific?"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:47
+msgid "Ads link"
+msgstr "Ads link"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:50
+msgid "Ads Image"
+msgstr "Ads Image"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:56
+#: framework-customizations/theme/options/customizer/options-ads.php:96
+#: framework-customizations/theme/options/customizer/options-ads.php:154
+msgid "Ad html"
+msgstr "Ad html"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:57
+#: framework-customizations/theme/options/customizer/options-ads.php:97
+#: framework-customizations/theme/options/customizer/options-ads.php:155
+msgid "You can use Adsense code here."
+msgstr "You can use Adsense code here."
+
+#: framework-customizations/theme/options/customizer/options-ads.php:65
+#: framework-customizations/theme/options/customizer/options-ads.php:66
+#: framework-customizations/theme/options/customizer/options-ads.php:123
+#: framework-customizations/theme/options/customizer/options-ads.php:124
+msgid "Single blog Ad"
+msgstr "Single blog Ad"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:86
+#: framework-customizations/theme/options/customizer/options-ads.php:144
+msgid "Ad link"
+msgstr "Ad link"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:90
+#: framework-customizations/theme/options/customizer/options-ads.php:148
+msgid "Ad Image"
+msgstr "Ad Image"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:103
+#: framework-customizations/theme/options/customizer/options-ads.php:161
+msgid "Ad position"
+msgstr "Ad position"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:106
+#: framework-customizations/theme/options/customizer/options-ads.php:164
+msgid "Before post title"
+msgstr "Before post title"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:107
+#: framework-customizations/theme/options/customizer/options-ads.php:165
+msgid "Before post content"
+msgstr "Before post content"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:108
+#: framework-customizations/theme/options/customizer/options-ads.php:166
+msgid "After post content"
+msgstr "After post content"
+
+#: framework-customizations/theme/options/customizer/options-ads.php:109
+#: framework-customizations/theme/options/customizer/options-ads.php:167
+msgid "After post tag"
+msgstr "After post tag"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:8
+msgid "Blog Comment settings"
+msgstr "Blog Comment settings"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:13
+msgid "Cookie"
+msgstr "Cookie"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:14
+msgid "Would you like to enable cookie in comment form?"
+msgstr "Would you like to enable cookie in comment form?"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:28
+msgid "Website Url"
+msgstr "Website Url"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:29
+msgid "Would you like to enable website url field in comment form?"
+msgstr "Would you like to enable website url field in comment form?"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:45
+msgid "Comment Before Note"
+msgstr "Comment Before Note"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:46
+msgid " Comment field before text "
+msgstr " Comment field before text "
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:54
+msgid "Comment After Note"
+msgstr "Comment After Note"
+
+#: framework-customizations/theme/options/customizer/options-blog-comment.php:55
+msgid " Comment after before text "
+msgstr " Comment after before text "
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:9
+msgid "Blog details settings"
+msgstr "Blog details settings"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:12
+#: framework-customizations/theme/options/posts/post.php:56
+msgid "Post header layout"
+msgstr "Post header layout"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:13
+#: framework-customizations/theme/options/posts/post.php:57
+msgid "Single post's header style."
+msgstr "Single post's header style."
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:33
+#: framework-customizations/theme/options/posts/post.php:75
+msgid "Sidebar widget"
+msgstr "Sidebar widget"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:34
+msgid "Blog post sidebar layout"
+msgstr "Blog post sidebar layout"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:37
+#: framework-customizations/theme/options/customizer/options-blog.php:19
+#: framework-customizations/theme/options/posts/post.php:79
+msgid "No sidebar"
+msgstr "No sidebar"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:38
+#: framework-customizations/theme/options/customizer/options-blog.php:21
+#: framework-customizations/theme/options/posts/post.php:80
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:49
+#: framework-customizations/theme/options/customizer/options-general.php:293
+#: framework-customizations/theme/options/customizer/options-general.php:303
+msgid "Social share"
+msgstr "Social share"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:50
+msgid "Do you want to show social share buttons?"
+msgstr "Do you want to show social share buttons?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:64
+msgid "Blog Mailchimp"
+msgstr "Blog Mailchimp"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:65
+msgid "Do you want to show single blog mailchimp?"
+msgstr "Do you want to show single blog mailchimp?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:78
+msgid "Mailchimp Top Title"
+msgstr "Mailchimp Top Title"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:80
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:84
+msgid "Mailchimp Title"
+msgstr "Mailchimp Title"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:86
+msgid "Get every weekly update & insights"
+msgstr "Get every weekly update & insights"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:90
+msgid "Mailchimp Image"
+msgstr "Mailchimp Image"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:91
+msgid "It will be shown on any \"single post bottom\" area."
+msgstr "It will be shown on any \"single post bottom\" area."
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:98
+msgid "Blog related post"
+msgstr "Blog related post"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:99
+msgid "Do you want to show single blog related post?"
+msgstr "Do you want to show single blog related post?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:112
+msgid "Related post title"
+msgstr "Related post title"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:114
+msgid "Related post"
+msgstr "Related post"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:118
+msgid "Related post count"
+msgstr "Related post count"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:123
+msgid "Related post title limit"
+msgstr "Related post title limit"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:131
+msgid "Post view counter"
+msgstr "Post view counter"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:132
+#: framework-customizations/theme/options/customizer/options-blog-single.php:147
+msgid "Do you want to show the view counter in posts?"
+msgstr "Do you want to show the view counter in posts?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:146
+msgid "Post share count"
+msgstr "Post share count"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:161
+#: framework-customizations/theme/options/customizer/options-blog.php:182
+msgid "Blog Comment"
+msgstr "Blog Comment"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:162
+msgid "Do you want to show blog Comment?"
+msgstr "Do you want to show blog Comment?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:175
+#: framework-customizations/theme/options/customizer/options-blog.php:110
+msgid "Blog author"
+msgstr "Blog author"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:176
+#: framework-customizations/theme/options/customizer/options-blog.php:111
+msgid "Do you want to show blog author?"
+msgstr "Do you want to show blog author?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:190
+#: framework-customizations/theme/options/customizer/options-blog.php:124
+msgid "Blog author image"
+msgstr "Blog author image"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:191
+#: framework-customizations/theme/options/customizer/options-blog.php:125
+msgid "Do you want to show blog author image?"
+msgstr "Do you want to show blog author image?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:205
+#: framework-customizations/theme/options/customizer/options-blog.php:138
+msgid "Blog date"
+msgstr "Blog date"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:206
+#: framework-customizations/theme/options/customizer/options-blog.php:139
+msgid "Do you want to show blog date?"
+msgstr "Do you want to show blog date?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:220
+#: framework-customizations/theme/options/customizer/options-blog.php:152
+msgid "Blog Category"
+msgstr "Blog Category"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:221
+#: framework-customizations/theme/options/customizer/options-blog.php:153
+msgid "Do you want to show blog category?"
+msgstr "Do you want to show blog category?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:235
+msgid "Blog navigation"
+msgstr "Blog navigation"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:236
+msgid "Do you want to show single blog navigation post?"
+msgstr "Do you want to show single blog navigation post?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:248
+msgid "Blog navigation title limit"
+msgstr "Blog navigation title limit"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:254
+msgid "Blog author about"
+msgstr "Blog author about"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:255
+msgid "Do you want to show blog author details box in footer?"
+msgstr "Do you want to show blog author details box in footer?"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:268
+msgid "Blog Comment box"
+msgstr "Blog Comment box"
+
+#: framework-customizations/theme/options/customizer/options-blog-single.php:269
+msgid "Do you want to show blog comment box in footer?"
+msgstr "Do you want to show blog comment box in footer?"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:9
+msgid "Blog Style settings"
+msgstr "Blog Style settings"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:13
+msgid "Blog Category color"
+msgstr "Blog Category color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:15
+#: framework-customizations/theme/options/customizer/options-blog-style.php:20
+#: framework-customizations/theme/options/customizer/options-blog-style.php:26
+msgid ""
+"You can change the Blog Category background color with rgba color or solid "
+"color"
+msgstr ""
+"You can change the Blog Category background color with rgba color or solid "
+"color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:18
+msgid "Blog Category bgcolor"
+msgstr "Blog Category bgcolor"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:24
+msgid "Blog Category Hover bgcolor"
+msgstr "Blog Category Hover bgcolor"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:30
+msgid "Sidebar Background color"
+msgstr "Sidebar Background color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:32
+msgid ""
+"You can change the sidebar background color with rgba color or solid color"
+msgstr ""
+"You can change the sidebar background color with rgba color or solid color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:41
+msgid "Sidebar Padding Top"
+msgstr "Sidebar Padding Top"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:50
+msgid "Sidebar Padding bottom"
+msgstr "Sidebar Padding bottom"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:59
+msgid "Sidebar Padding left right"
+msgstr "Sidebar Padding left right"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:68
+msgid "Sidebar widget bottom margin"
+msgstr "Sidebar widget bottom margin"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:71
+#: framework-customizations/theme/options/customizer/options-footer.php:31
+msgid "Widget title color"
+msgstr "Widget title color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:73
+msgid ""
+"You can change the sidebar widget title color with rgba color or solid color"
+msgstr ""
+"You can change the sidebar widget title color with rgba color or solid color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:76
+msgid "Widget content color"
+msgstr "Widget content color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:78
+msgid ""
+"You can change the sidebar widget content color with rgba color or solid "
+"color"
+msgstr ""
+"You can change the sidebar widget content color with rgba color or solid "
+"color"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:88
+#: framework-customizations/theme/options/customizer/options-footer.php:102
+msgid "Widget title bottom"
+msgstr "Widget title bottom"
+
+#: framework-customizations/theme/options/customizer/options-blog-style.php:99
+#: framework-customizations/theme/options/customizer/options-footer.php:115
+msgid "Widget title top"
+msgstr "Widget title top"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:8
+msgid "Blog settings"
+msgstr "Blog settings"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:15
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:16
+msgid "Description"
+msgstr "Description"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:17
+msgid "Blog and Page sidebar "
+msgstr "Blog and Page sidebar "
+
+#: framework-customizations/theme/options/customizer/options-blog.php:20
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:29
+#: framework-customizations/theme/options/taxonomies/category.php:22
+msgid "Blog style"
+msgstr "Blog style"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:30
+msgid "This is the site's main Blog style."
+msgstr "This is the site's main Blog style."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:74
+#: framework-customizations/theme/options/taxonomies/category.php:68
+msgid "Column Width"
+msgstr "Column Width"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:77
+#: framework-customizations/theme/options/taxonomies/category.php:71
+msgid "Full "
+msgstr "Full "
+
+#: framework-customizations/theme/options/customizer/options-blog.php:78
+#: framework-customizations/theme/options/taxonomies/category.php:72
+msgid "2 Columns"
+msgstr "2 Columns"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:79
+#: framework-customizations/theme/options/taxonomies/category.php:73
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:89
+#: framework-customizations/theme/options/customizer/options-general.php:139
+#: framework-customizations/theme/options/taxonomies/category.php:83
+msgid "Image Size"
+msgstr "Image Size"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:96
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:97
+msgid "Do you want to show breadcrumb?"
+msgstr "Do you want to show breadcrumb?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:167
+msgid "Blog single category"
+msgstr "Blog single category"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:168
+msgid "Do you want to show blog single?"
+msgstr "Do you want to show blog single?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:183
+msgid "Do you want to show blog comment?"
+msgstr "Do you want to show blog comment?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:197
+msgid "Blog Readmore"
+msgstr "Blog Readmore"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:198
+msgid "Do you want to show blog readmore button?"
+msgstr "Do you want to show blog readmore button?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:211
+msgid "Readmore Button text"
+msgstr "Readmore Button text"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:212
+msgid "Readmore button text in blog, category"
+msgstr "Readmore button text in blog, category"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:214
+msgid "Read More"
+msgstr "Read More"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:219
+msgid "Post child category"
+msgstr "Post child category"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:220
+msgid "Do you want to show post child category?"
+msgstr "Do you want to show post child category?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:234
+msgid "Author image show"
+msgstr "Author image show"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:235
+msgid "Do you want to show author avatar image?"
+msgstr "Do you want to show author avatar image?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:255
+#: framework-customizations/theme/options/taxonomies/category.php:93
+msgid "Post title length"
+msgstr "Post title length"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:256
+#: framework-customizations/theme/options/taxonomies/category.php:94
+msgid "Enable disable post title length."
+msgstr "Enable disable post title length."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:271
+#: framework-customizations/theme/options/taxonomies/category.php:109
+msgid "Post title limit."
+msgstr "Post title limit."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:272
+#: framework-customizations/theme/options/taxonomies/category.php:110
+msgid "Post title limit, example: 10"
+msgstr "Post title limit, example: 10"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:285
+#: framework-customizations/theme/options/taxonomies/category.php:123
+msgid "Post word length"
+msgstr "Post word length"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:286
+#: framework-customizations/theme/options/taxonomies/category.php:124
+msgid "Enable disable  post word length."
+msgstr "Enable disable  post word length."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:301
+#: framework-customizations/theme/options/taxonomies/category.php:139
+msgid "Post word limit."
+msgstr "Post word limit."
+
+#: framework-customizations/theme/options/customizer/options-blog.php:302
+#: framework-customizations/theme/options/taxonomies/category.php:140
+msgid "Post word limit, example: 100"
+msgstr "Post word limit, example: 100"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:311
+msgid "Blog Archive Settings"
+msgstr "Blog Archive Settings"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:312
+msgid "Blog archive page settings"
+msgstr "Blog archive page settings"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:313
+msgid "Blog Archive"
+msgstr "Blog Archive"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:319
+msgid "Show title"
+msgstr "Show title"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:320
+msgid "Do you want to show archive title?"
+msgstr "Do you want to show archive title?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:334
+msgid "Show Month"
+msgstr "Show Month"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:335
+msgid "Do you want to show archive month filter option?"
+msgstr "Do you want to show archive month filter option?"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:349
+msgid "Show Year"
+msgstr "Show Year"
+
+#: framework-customizations/theme/options/customizer/options-blog.php:350
+msgid "Do you want to show archive year filter option?"
+msgstr "Do you want to show archive year filter option?"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:8
+msgid "Footer settings"
+msgstr "Footer settings"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:13
+msgid "Footer style"
+msgstr "Footer style"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:14
+msgid "This is the site's main footer style."
+msgstr "This is the site's main footer style."
+
+#: framework-customizations/theme/options/customizer/options-footer.php:34
+#: framework-customizations/theme/options/customizer/options-footer.php:40
+#: framework-customizations/theme/options/customizer/options-footer.php:54
+msgid ""
+"You can change the footer background color with rgba color or solid color"
+msgstr ""
+"You can change the footer background color with rgba color or solid color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:37
+msgid "Text color"
+msgstr "Text color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:43
+msgid "Background image"
+msgstr "Background image"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:45
+msgid "You can change the footer background image "
+msgstr "You can change the footer background image "
+
+#: framework-customizations/theme/options/customizer/options-footer.php:52
+msgid "Background color"
+msgstr "Background color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:67
+msgid "Footer Padding top"
+msgstr "Footer Padding top"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:81
+msgid "Footer Padding bottom"
+msgstr "Footer Padding bottom"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:87
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:88
+msgid "Change Widget Title position"
+msgstr "Change Widget Title position"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:121
+msgid "Copyright color"
+msgstr "Copyright color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:124
+#: framework-customizations/theme/options/customizer/options-footer.php:130
+msgid ""
+"You can change the footer's copyright color with rgba color or solid color"
+msgstr ""
+"You can change the footer's copyright color with rgba color or solid color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:128
+msgid "Copyright bgcolor"
+msgstr "Copyright bgcolor"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:134
+msgid "Copyright link color"
+msgstr "Copyright link color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:136
+msgid "You can change the copy right link color with rgba color or solid color"
+msgstr ""
+"You can change the copy right link color with rgba color or solid color"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:141
+msgid "&copy; 2022, Binduz. All Rights Reserved."
+msgstr "© 2022, Binduz. All Rights Reserved."
+
+#: framework-customizations/theme/options/customizer/options-footer.php:142
+msgid "Copyright text"
+msgstr "Copyright text"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:143
+msgid "This text will be shown at the footer of all pages."
+msgstr "This text will be shown at the footer of all pages."
+
+#: framework-customizations/theme/options/customizer/options-footer.php:156
+msgid "Copyright Font size"
+msgstr "Copyright Font size"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:161
+#: framework-customizations/theme/options/customizer/options-footer.php:175
+msgid "Back To Top"
+msgstr "Back To Top"
+
+#: framework-customizations/theme/options/customizer/options-footer.php:176
+msgid "Back Button"
+msgstr "Back Button"
+
+#: framework-customizations/theme/options/customizer/options-general.php:8
+msgid "General settings"
+msgstr "General settings"
+
+#: framework-customizations/theme/options/customizer/options-general.php:13
+#: framework-customizations/theme/options/customizer/options-general.php:14
+msgid "Shop Product Columns"
+msgstr "Shop Product Columns"
+
+#: framework-customizations/theme/options/customizer/options-general.php:20
+msgid "Logo text"
+msgstr "Logo text"
+
+#: framework-customizations/theme/options/customizer/options-general.php:34
+msgid "Main logo"
+msgstr "Main logo"
+
+#: framework-customizations/theme/options/customizer/options-general.php:35
+msgid ""
+"It's the main logo, mostly it will be shown on \"dark or coloreful\" type "
+"area."
+msgstr ""
+"It's the main logo, mostly it will be shown on \"dark or coloreful\" type "
+"area."
+
+#: framework-customizations/theme/options/customizer/options-general.php:41
+msgid "Color logo"
+msgstr "Color logo"
+
+#: framework-customizations/theme/options/customizer/options-general.php:42
+msgid "It will be shown on any \"color background\" type area."
+msgstr "It will be shown on any \"color background\" type area."
+
+#: framework-customizations/theme/options/customizer/options-general.php:48
+msgid "Footer logo"
+msgstr "Footer logo"
+
+#: framework-customizations/theme/options/customizer/options-general.php:49
+msgid "It will be shown on any \"Footer secction\" type area."
+msgstr "It will be shown on any \"Footer secction\" type area."
+
+#: framework-customizations/theme/options/customizer/options-general.php:55
+msgid "Search logo"
+msgstr "Search logo"
+
+#: framework-customizations/theme/options/customizer/options-general.php:56
+msgid "It will be shown on any \"Search popup section\" type area."
+msgstr "It will be shown on any \"Search popup section\" type area."
+
+#: framework-customizations/theme/options/customizer/options-general.php:62
+msgid "Offcanvas logo"
+msgstr "Offcanvas logo"
+
+#: framework-customizations/theme/options/customizer/options-general.php:63
+msgid "It will be shown on Mobile menu Area."
+msgstr "It will be shown on Mobile menu Area."
+
+#: framework-customizations/theme/options/customizer/options-general.php:70
+msgid "About Site"
+msgstr "About Site"
+
+#: framework-customizations/theme/options/customizer/options-general.php:71
+msgid "About"
+msgstr "About"
+
+#: framework-customizations/theme/options/customizer/options-general.php:78
+msgid "Offcanvas Contact info"
+msgstr "Offcanvas Contact info"
+
+#: framework-customizations/theme/options/customizer/options-general.php:79
+msgid ""
+"Add Contact info and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+msgstr ""
+"Add Contact info and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+
+#: framework-customizations/theme/options/customizer/options-general.php:80
+#: framework-customizations/theme/options/customizer/options-general.php:141
+#: framework-customizations/theme/options/customizer/options-general.php:219
+#: framework-customizations/theme/options/customizer/options-general.php:268
+#: framework-customizations/theme/options/customizer/options-general.php:295
+msgid "Add new"
+msgstr "Add new"
+
+#: framework-customizations/theme/options/customizer/options-general.php:86
+#: framework-customizations/theme/options/customizer/options-general.php:223
+#: framework-customizations/theme/options/customizer/options-general.php:273
+#: framework-customizations/theme/options/customizer/options-newsticker.php:170
+msgid "Title"
+msgstr "Title"
+
+#: framework-customizations/theme/options/customizer/options-general.php:87
+msgid "+212 34 45 45 98"
+msgstr "+212 34 45 45 98"
+
+#: framework-customizations/theme/options/customizer/options-general.php:95
+msgid "Email"
+msgstr "Email"
+
+#: framework-customizations/theme/options/customizer/options-general.php:96
+msgid "Phone"
+msgstr "Phone"
+
+#: framework-customizations/theme/options/customizer/options-general.php:105
+msgid "Icon"
+msgstr "Icon"
+
+#: framework-customizations/theme/options/customizer/options-general.php:115
+msgid "Breadcrumb word length"
+msgstr "Breadcrumb word length"
+
+#: framework-customizations/theme/options/customizer/options-general.php:116
+msgid "The length of the breadcumb text."
+msgstr "The length of the breadcumb text."
+
+#: framework-customizations/theme/options/customizer/options-general.php:122
+msgid "Author about"
+msgstr "Author about"
+
+#: framework-customizations/theme/options/customizer/options-general.php:123
+msgid "Show author about in author page?"
+msgstr "Show author about in author page?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:140
+msgid "Add new image size if you need extra image size for theme"
+msgstr "Add new image size if you need extra image size for theme"
+
+#: framework-customizations/theme/options/customizer/options-general.php:145
+msgid "Slug / title"
+msgstr "Slug / title"
+
+#: framework-customizations/theme/options/customizer/options-general.php:146
+msgid "Do not give space with word"
+msgstr "Do not give space with word"
+
+#: framework-customizations/theme/options/customizer/options-general.php:157
+msgid "Width"
+msgstr "Width"
+
+#: framework-customizations/theme/options/customizer/options-general.php:168
+msgid "Height"
+msgstr "Height"
+
+#: framework-customizations/theme/options/customizer/options-general.php:177
+msgid "Preloader"
+msgstr "Preloader"
+
+#: framework-customizations/theme/options/customizer/options-general.php:178
+msgid "Use preloader?"
+msgstr "Use preloader?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:193
+msgid "Debug"
+msgstr "Debug"
+
+#: framework-customizations/theme/options/customizer/options-general.php:194
+msgid "Use demo Debug?"
+msgstr "Use demo Debug?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:208
+msgid "Debug Post ID"
+msgstr "Debug Post ID"
+
+#: framework-customizations/theme/options/customizer/options-general.php:209
+msgid "Post id for developemnt purpose."
+msgstr "Post id for developemnt purpose."
+
+#: framework-customizations/theme/options/customizer/options-general.php:217
+msgid "Social links"
+msgstr "Social links"
+
+#: framework-customizations/theme/options/customizer/options-general.php:218
+#: framework-customizations/theme/options/customizer/options-general.php:267
+msgid ""
+"Add social links and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+msgstr ""
+"Add social links and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+
+#: framework-customizations/theme/options/customizer/options-general.php:227
+msgid "Count"
+msgstr "Count"
+
+#: framework-customizations/theme/options/customizer/options-general.php:231
+msgid "Tag"
+msgstr "Tag"
+
+#: framework-customizations/theme/options/customizer/options-general.php:235
+#: framework-customizations/theme/options/customizer/options-general.php:278
+#: framework-customizations/theme/options/customizer/options-general.php:310
+msgid "Social icon"
+msgstr "Social icon"
+
+#: framework-customizations/theme/options/customizer/options-general.php:239
+#: framework-customizations/theme/options/customizer/options-general.php:282
+msgid "Social link"
+msgstr "Social link"
+
+#: framework-customizations/theme/options/customizer/options-general.php:248
+msgid "Offcanvas social Icon Type ?"
+msgstr "Offcanvas social Icon Type ?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:249
+msgid "Use in Offcanvas Menu?"
+msgstr "Use in Offcanvas Menu?"
+
+#: framework-customizations/theme/options/customizer/options-general.php:266
+msgid "Editor Social links"
+msgstr "Editor Social links"
+
+#: framework-customizations/theme/options/customizer/options-general.php:294
+msgid ""
+"Add social share and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+msgstr ""
+"Add social share and it's icon class bellow. These are all fontaweseome-5 "
+"icons."
+
+#: framework-customizations/theme/options/customizer/options-general.php:319
+msgid "Facebook Api settings"
+msgstr "Facebook Api settings"
+
+#: framework-customizations/theme/options/customizer/options-general.php:320
+msgid "Facebook Api Settings"
+msgstr "Facebook Api Settings"
+
+#: framework-customizations/theme/options/customizer/options-general.php:327
+msgid "App id"
+msgstr "App id"
+
+#: framework-customizations/theme/options/customizer/options-general.php:329
+#: framework-customizations/theme/options/customizer/options-general.php:338
+msgid ""
+"To get id open app account in <a href=\"https://developers.facebook."
+"com/apps/\">Facebook</a> ."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/options-general.php:331
+#: framework-customizations/theme/options/customizer/options-general.php:340
+msgid ""
+"To get app id key open app account in <a href=\"https://developers.facebook."
+"com/apps/\">Facebook</a> ."
+msgstr ""
+
+#: framework-customizations/theme/options/customizer/options-general.php:336
+msgid "Secret code"
+msgstr "Secret code"
+
+#: framework-customizations/theme/options/customizer/options-header.php:8
+msgid "Header settings"
+msgstr "Header settings"
+
+#: framework-customizations/theme/options/customizer/options-header.php:13
+#: framework-customizations/theme/options/posts/page.php:43
+msgid "Header style"
+msgstr "Header style"
+
+#: framework-customizations/theme/options/customizer/options-header.php:14
+msgid "This is the site's main header style."
+msgstr "This is the site's main header style."
+
+#: framework-customizations/theme/options/customizer/options-header.php:43
+msgid "Mailchimp active"
+msgstr "Mailchimp active"
+
+#: framework-customizations/theme/options/customizer/options-header.php:59
+msgid "Show topbar"
+msgstr "Show topbar"
+
+#: framework-customizations/theme/options/customizer/options-header.php:75
+msgid "Topbar Background"
+msgstr "Topbar Background"
+
+#: framework-customizations/theme/options/customizer/options-header.php:99
+msgid "Show button"
+msgstr "Show button"
+
+#: framework-customizations/theme/options/customizer/options-header.php:120
+msgid "Button Label"
+msgstr "Button Label"
+
+#: framework-customizations/theme/options/customizer/options-header.php:126
+msgid "Button Link"
+msgstr "Button Link"
+
+#: framework-customizations/theme/options/customizer/options-header.php:136
+msgid "Show Search"
+msgstr "Show Search"
+
+#: framework-customizations/theme/options/customizer/options-header.php:150
+msgid "Show user account"
+msgstr "Show user account"
+
+#: framework-customizations/theme/options/customizer/options-header.php:170
+msgid "Login link"
+msgstr "Login link"
+
+#: framework-customizations/theme/options/customizer/options-header.php:180
+msgid "Show multi language"
+msgstr "Show multi language"
+
+#: framework-customizations/theme/options/customizer/options-header.php:195
+msgid "Language list"
+msgstr "Language list"
+
+#: framework-customizations/theme/options/customizer/options-header.php:200
+msgid "Add"
+msgstr "Add"
+
+#: framework-customizations/theme/options/customizer/options-header.php:204
+msgid "Lang"
+msgstr "Lang"
+
+#: framework-customizations/theme/options/customizer/options-header.php:210
+msgid "Url"
+msgstr "Url"
+
+#: framework-customizations/theme/options/customizer/options-header.php:223
+msgid "Show Weather"
+msgstr "Show Weather"
+
+#: framework-customizations/theme/options/customizer/options-header.php:241
+#: framework-customizations/theme/options/customizer/options-header.php:243
+msgid "Weather Forcast Settings"
+msgstr "Weather Forcast Settings"
+
+#: framework-customizations/theme/options/customizer/options-header.php:244
+msgid "Weather"
+msgstr "Weather"
+
+#: framework-customizations/theme/options/customizer/options-header.php:251
+msgid "Data Source"
+msgstr "Data Source"
+
+#: framework-customizations/theme/options/customizer/options-header.php:255
+#: framework-customizations/theme/options/customizer/options-header.php:265
+msgid "City name"
+msgstr "City name"
+
+#: framework-customizations/theme/options/customizer/options-header.php:261
+msgid "Cordinates"
+msgstr "Cordinates"
+
+#: framework-customizations/theme/options/customizer/options-header.php:267
+msgid "london"
+msgstr "london"
+
+#: framework-customizations/theme/options/customizer/options-header.php:274
+msgid "Map Latitude "
+msgstr "Map Latitude "
+
+#: framework-customizations/theme/options/customizer/options-header.php:279
+msgid "Map Longitude "
+msgstr "Map Longitude "
+
+#: framework-customizations/theme/options/customizer/options-header.php:284
+msgid "Cache enable"
+msgstr "Cache enable"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:8
+msgid "News Ticker settings"
+msgstr "News Ticker settings"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:13
+msgid "Newsticker"
+msgstr "Newsticker"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:14
+msgid "Would you like to enable newsticker on topbar?"
+msgstr "Would you like to enable newsticker on topbar?"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:28
+msgid "Tranding box bg color"
+msgstr "Tranding box bg color"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:29
+#: framework-customizations/theme/options/customizer/options-newsticker.php:37
+msgid "Tranding box bg color."
+msgstr "Tranding box bg color."
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:36
+msgid "Tranding Title bg color"
+msgstr "Tranding Title bg color"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:45
+msgid "News Ticker title"
+msgstr "News Ticker title"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:46
+msgid "News Ticker Title."
+msgstr "News Ticker Title."
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:54
+#: framework-customizations/theme/options/posts/page.php:93
+msgid "Newsticker Navigation"
+msgstr "Newsticker Navigation"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:55
+#: framework-customizations/theme/options/posts/page.php:94
+msgid "Would you like to enable newsticker navigation?"
+msgstr "Would you like to enable newsticker navigation?"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:72
+msgid "Post select by"
+msgstr "Post select by"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:73
+msgid "Newsticker post source "
+msgstr "Newsticker post source "
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:77
+msgid "Latest Post"
+msgstr "Latest Post"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:78
+msgid "Trending post"
+msgstr "Trending post"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:79
+msgid "Most Commented"
+msgstr "Most Commented"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:80
+msgid "Most Views / Popular"
+msgstr "Most Views / Popular"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:81
+msgid "Category"
+msgstr "Category"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:82
+#: framework-customizations/theme/options/customizer/options-newsticker.php:107
+msgid "Selected post"
+msgstr "Selected post"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:97
+msgid "Newsticker post category"
+msgstr "Newsticker post category"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:128
+msgid "Number of post"
+msgstr "Number of post"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:129
+msgid "Number post to load "
+msgstr "Number post to load "
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:144
+msgid "Post skip"
+msgstr "Post skip"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:145
+msgid "Do not show few posts"
+msgstr "Do not show few posts"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:153
+msgid "Post order"
+msgstr "Post order"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:156
+msgid "Ascending"
+msgstr "Ascending"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:157
+msgid "Descending"
+msgstr "Descending"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:167
+msgid "Post orderBy"
+msgstr "Post orderBy"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:171
+msgid "Date"
+msgstr "Date"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:172
+msgid "Publish Date"
+msgstr "Publish Date"
+
+#: framework-customizations/theme/options/customizer/options-newsticker.php:189
+msgid "Title limit"
+msgstr "Title limit"
+
+#: framework-customizations/theme/options/customizer/options-style.php:7
+msgid "Style settings"
+msgstr "Style settings"
+
+#: framework-customizations/theme/options/customizer/options-style.php:11
+#: framework-customizations/theme/options/posts/page.php:16
+msgid "Container width"
+msgstr "Container width"
+
+#: framework-customizations/theme/options/customizer/options-style.php:12
+msgid "Site's Main Container Width in Pixel."
+msgstr "Site's Main Container Width in Pixel."
+
+#: framework-customizations/theme/options/customizer/options-style.php:16
+#: framework-customizations/theme/options/posts/page.php:22
+msgid "Body background"
+msgstr "Body background"
+
+#: framework-customizations/theme/options/customizer/options-style.php:17
+#: framework-customizations/theme/options/posts/page.php:23
+msgid "Site's main background color."
+msgstr "Site's main background color."
+
+#: framework-customizations/theme/options/customizer/options-style.php:23
+msgid "Blog background"
+msgstr "Blog background"
+
+#: framework-customizations/theme/options/customizer/options-style.php:24
+msgid "Site's main blog,catyegory background color."
+msgstr "Site's main blog,catyegory background color."
+
+#: framework-customizations/theme/options/customizer/options-style.php:30
+msgid "Primary color"
+msgstr "Primary color"
+
+#: framework-customizations/theme/options/customizer/options-style.php:31
+msgid "Site's main color."
+msgstr "Site's main color."
+
+#: framework-customizations/theme/options/customizer/options-style.php:36
+msgid "Meta color"
+msgstr "Meta color"
+
+#: framework-customizations/theme/options/customizer/options-style.php:37
+msgid "Site's blog meta color."
+msgstr "Site's blog meta color."
+
+#: framework-customizations/theme/options/customizer/options-style.php:42
+msgid "Meta icon color"
+msgstr "Meta icon color"
+
+#: framework-customizations/theme/options/customizer/options-style.php:43
+msgid "Site's blog meta icon color."
+msgstr "Site's blog meta icon color."
+
+#: framework-customizations/theme/options/customizer/options-style.php:48
+msgid "Title color"
+msgstr "Title color"
+
+#: framework-customizations/theme/options/customizer/options-style.php:49
+msgid "Blog title color."
+msgstr "Blog title color."
+
+#: framework-customizations/theme/options/customizer/options-style.php:55
+msgid "Body Font"
+msgstr "Body Font"
+
+#: framework-customizations/theme/options/customizer/options-style.php:56
+msgid "Choose the typography for the title"
+msgstr "Choose the typography for the title"
+
+#: framework-customizations/theme/options/customizer/options-style.php:87
+msgid "Heading H1 and H2 Fonts"
+msgstr "Heading H1 and H2 Fonts"
+
+#: framework-customizations/theme/options/customizer/options-style.php:88
+#: framework-customizations/theme/options/customizer/options-style.php:107
+#: framework-customizations/theme/options/customizer/options-style.php:126
+msgid "This is for heading google fonts"
+msgstr "This is for heading google fonts"
+
+#: framework-customizations/theme/options/customizer/options-style.php:106
+msgid "Heading H3 Fonts"
+msgstr "Heading H3 Fonts"
+
+#: framework-customizations/theme/options/customizer/options-style.php:125
+msgid "Heading H4 Fonts"
+msgstr "Heading H4 Fonts"
+
+#: framework-customizations/theme/options/posts/page.php:9
+msgid "Page settings"
+msgstr "Page settings"
+
+#: framework-customizations/theme/options/posts/page.php:17
+msgid "Site's Page Container Width in Pixel."
+msgstr "Site's Page Container Width in Pixel."
+
+#: framework-customizations/theme/options/posts/page.php:29
+msgid "Override default header layout?"
+msgstr "Override default header layout?"
+
+#: framework-customizations/theme/options/posts/page.php:30
+msgid "Override customizer header layout"
+msgstr "Override customizer header layout"
+
+#: framework-customizations/theme/options/posts/page.php:44
+msgid "This is the site's single page header style."
+msgstr "This is the site's single page header style."
+
+#: framework-customizations/theme/options/posts/page.php:76
+msgid "Header Ad"
+msgstr "Header Ad"
+
+#: framework-customizations/theme/options/posts/page.php:77
+msgid "Would you like to enable header Ad"
+msgstr "Would you like to enable header Ad"
+
+#: framework-customizations/theme/options/posts/post.php:6
+msgid "Featured video"
+msgstr "Featured video"
+
+#: framework-customizations/theme/options/posts/post.php:14
+msgid "Video url"
+msgstr "Video url"
+
+#: framework-customizations/theme/options/posts/post.php:15
+msgid ""
+"Paste a video code from Youtube, Vimeo it will be embedded in the post and "
+"the thumb used as the featured image of this post. \n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+msgstr ""
+"Paste a video code from Youtube, Vimeo it will be embedded in the post and "
+"the thumb used as the featured image of this post. \n"
+"\t\t\t\tYou need to choose \"Video Format\" as post format to use \"Featured "
+"Video\"."
+
+#: framework-customizations/theme/options/posts/post.php:23
+msgid "Featured audio"
+msgstr "Featured audio"
+
+#: framework-customizations/theme/options/posts/post.php:30
+msgid "Audio URL"
+msgstr "Audio URL"
+
+#: framework-customizations/theme/options/posts/post.php:31
+msgid "Paste a soundcloud link here."
+msgstr "Paste a soundcloud link here."
+
+#: framework-customizations/theme/options/posts/post.php:37
+msgid "Post layout"
+msgstr "Post layout"
+
+#: framework-customizations/theme/options/posts/post.php:44
+#: framework-customizations/theme/options/taxonomies/category.php:9
+msgid "Override default layouts?"
+msgstr "Override default layouts?"
+
+#: framework-customizations/theme/options/posts/post.php:45
+#: framework-customizations/theme/options/taxonomies/category.php:10
+msgid "You can change the default options from customizer's \"Blog settings\"."
+msgstr ""
+"You can change the default options from customizer's \"Blog settings\"."
+
+#: framework-customizations/theme/options/posts/post.php:76
+msgid "Override blog sidebar layout"
+msgstr "Override blog sidebar layout"
+
+#: framework-customizations/theme/options/taxonomies/category.php:23
+msgid "This is the site's main Category style."
+msgstr "This is the site's main Category style."
+
+#: search.php:26
+msgid "Search Results for:"
+msgstr "Search Results for:"
+
+#: template-parts/blog/contents/content-page.php:24
+#: template-parts/blog/contents/content-single.php:51
+#: template-parts/blog/contents/content.php:57
+msgid "Continue reading &rarr;"
+msgstr "Continue reading →"
+
+#: template-parts/blog/contents/content-single.php:66
+#: template-parts/blog/contents/content.php:72
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/blog/paginations/loadmore.php:12
+msgid "Load More Articles"
+msgstr "Load More Articles"
+
+#: template-parts/blog/post-parts/part-author.php:26
+msgid "Post"
+msgstr "Post"
+
+#: template-parts/blog/post-parts/part-author.php:37
+msgid "Contact With Me"
+msgstr "Contact With Me"
+
+#: template-parts/blog/post-parts/part-mailchimp.php:27
+msgid "Mail Icon"
+msgstr "Mail Icon"
+
+#: template-parts/blog/post-parts/part-search.php:17
+#: template-parts/topbar/content-style2.php:53
+msgid "Search"
+msgstr "Search"
+
+#: template-parts/blog/post-parts/part-search.php:22
+msgid "Close"
+msgstr "Close"
+
+#: template-parts/footer/footer-default.php:3
+#: template-parts/footer/footer.php:3
+msgid "&copy; 2022, Binduz. All Rights Reserved. "
+msgstr "© 2022, Binduz. All Rights Reserved. "
+
+#: template-parts/topbar/content-style2.php:50
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/topbar/content-style2.php:63
+#: template-parts/topbar/content-style4.php:53
+msgid "°F"
+msgstr "°F"
+
+#: template-parts/topbar/content-style2.php:66
+#: template-parts/topbar/content-style4.php:56
+msgid "°C"
+msgstr "°C"
+
+#: template-parts/topbar/content-style2.php:70
+msgid "Login"
+msgstr "Login"
+
+#: template-parts/topbar/content.php:7
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "%s quantity"
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr "Quantity"
+
+#: woocommerce/woo-setup.php:36
+msgid "Shop Sidebar"
+msgstr "Shop Sidebar"
+
+#: woocommerce/woo-setup.php:38
+msgid ""
+"Add widgets here. This widgets will be appear in shop page and when the "
+"wocommerce plugin are installed."
+msgstr ""
+"Add widgets here. This widgets will be appear in shop page and when the "
+"wocommerce plugin are installed."

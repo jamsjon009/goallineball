@@ -1,0 +1,14 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+         
+    },
+   
+    "autoload": {
+        "psr-4": {
+            "Binduz_Essential\\": "inc/"
+           
+        },
+        "files": [ ]
+    }
+}
